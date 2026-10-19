@@ -86,7 +86,8 @@ public final class MobRulesTests {
             });
         });
         // K06: a zombie eats the beef at its feet and heals by its nutrition.
-        MiteGameTests.add("rules_zombie_eats_meat", 100, h -> {
+        // 300 ticks: FetchItemGoal starts with odds 1/SEARCH_ODDS per check, 100 ticks failed about once in 70 runs
+        MiteGameTests.add("rules_zombie_eats_meat", 300, h -> {
             Zombie zombie = h.spawn(EntityTypes.ZOMBIE, 3, 1, 3);
             zombie.setItemSlot(EquipmentSlot.HEAD, new ItemStack(Items.LEATHER_HELMET));
             zombie.setCanPickUpLoot(false);

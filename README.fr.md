@@ -1,5 +1,7 @@
 <p align="right"><a href="README.md">English</a> · <b>Français</b></p>
 
+<p align="center"><img src="docs/media/logo.png" width="160" alt="Hardscrabble logo: the ghoul before a blood moon"></p>
+
 # Hardscrabble
 
 Une refonte de la survie en mode exigeant pour **Minecraft Java 26.3 / NeoForge** : progression lente, métal après

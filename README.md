@@ -1,5 +1,7 @@
 <p align="right"><b>English</b> · <a href="README.fr.md">Français</a></p>
 
+<p align="center"><img src="docs/media/logo.png" width="160" alt="Hardscrabble logo: the ghoul before a blood moon"></p>
+
 # Hardscrabble
 
 A hardcore survival overhaul for **Minecraft Java 26.3 / NeoForge**: slow, metal-by-metal progression, real hunger,
