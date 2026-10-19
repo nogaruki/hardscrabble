@@ -1,0 +1,1007 @@
+{
+  "entity.ancient_bone_lord.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither_skeleton.ambient",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ancient_bone_lord.ambient"
+  },
+  "entity.ancient_bone_lord.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither_skeleton.death",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ancient_bone_lord.death"
+  },
+  "entity.ancient_bone_lord.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither_skeleton.hurt",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ancient_bone_lord.hurt"
+  },
+  "entity.black_widow.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.ambient",
+        "pitch": 0.85
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.black_widow.ambient"
+  },
+  "entity.black_widow.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.death",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.black_widow.death"
+  },
+  "entity.black_widow.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.hurt",
+        "pitch": 0.85
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.black_widow.hurt"
+  },
+  "entity.blob.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.squish",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.blob.ambient"
+  },
+  "entity.blob.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.death",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.blob.death"
+  },
+  "entity.blob.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.hurt",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.blob.hurt"
+  },
+  "entity.bone_lord.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither_skeleton.ambient",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.bone_lord.ambient"
+  },
+  "entity.bone_lord.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither_skeleton.death",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.bone_lord.death"
+  },
+  "entity.bone_lord.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wither_skeleton.hurt",
+        "pitch": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.bone_lord.hurt"
+  },
+  "entity.clay_golem.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.mud.step",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.clay_golem.ambient"
+  },
+  "entity.clay_golem.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.mud.break",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.clay_golem.death"
+  },
+  "entity.clay_golem.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.mud.break",
+        "pitch": 0.8
+      },
+      {
+        "type": "event",
+        "name": "entity.iron_golem.hurt",
+        "pitch": 1.2,
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.clay_golem.hurt"
+  },
+  "entity.copperspine.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.ambient",
+        "pitch": 0.8
+      },
+      {
+        "type": "event",
+        "name": "block.copper.step",
+        "pitch": 1.2,
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.copperspine.ambient"
+  },
+  "entity.copperspine.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.death",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.copperspine.death"
+  },
+  "entity.copperspine.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.hurt",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.copperspine.hurt"
+  },
+  "entity.demon_spider.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.ambient",
+        "pitch": 0.6
+      },
+      {
+        "type": "event",
+        "name": "entity.blaze.burn",
+        "pitch": 0.9,
+        "volume": 0.3
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.demon_spider.ambient"
+  },
+  "entity.demon_spider.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.death",
+        "pitch": 0.55
+      },
+      {
+        "type": "event",
+        "name": "entity.blaze.death",
+        "pitch": 1.2,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.demon_spider.death"
+  },
+  "entity.demon_spider.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.hurt",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.demon_spider.hurt"
+  },
+  "entity.dire_wolf.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wolf_big.growl",
+        "pitch": 0.75
+      },
+      {
+        "type": "event",
+        "name": "entity.wolf_big.ambient",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.dire_wolf.ambient"
+  },
+  "entity.dire_wolf.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wolf_big.death",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.dire_wolf.death"
+  },
+  "entity.dire_wolf.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wolf_big.hurt",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.dire_wolf.hurt"
+  },
+  "entity.earth_elemental.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.stone.break",
+        "pitch": 0.5,
+        "volume": 0.8
+      },
+      {
+        "type": "event",
+        "name": "entity.ravager.ambient",
+        "pitch": 1.4,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.earth_elemental.ambient"
+  },
+  "entity.earth_elemental.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.iron_golem.death",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "block.stone.break",
+        "pitch": 0.4
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.earth_elemental.death"
+  },
+  "entity.earth_elemental.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "block.stone.break",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "entity.iron_golem.hurt",
+        "pitch": 0.8,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.earth_elemental.hurt"
+  },
+  "entity.fire_elemental.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.blaze.ambient",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "block.fire.ambient",
+        "pitch": 0.8,
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.fire_elemental.ambient"
+  },
+  "entity.fire_elemental.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.blaze.death",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.fire_elemental.death"
+  },
+  "entity.fire_elemental.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.blaze.hurt",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.fire_elemental.hurt"
+  },
+  "entity.ghoul.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie.ambient",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "entity.husk.ambient",
+        "pitch": 0.8,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ghoul.ambient"
+  },
+  "entity.ghoul.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie.death",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ghoul.death"
+  },
+  "entity.ghoul.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie.hurt",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ghoul.hurt"
+  },
+  "entity.giant_vampire_bat.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.bat.ambient",
+        "pitch": 0.55
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.giant_vampire_bat.ambient"
+  },
+  "entity.giant_vampire_bat.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.bat.death",
+        "pitch": 0.55
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.giant_vampire_bat.death"
+  },
+  "entity.giant_vampire_bat.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.bat.hurt",
+        "pitch": 0.55
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.giant_vampire_bat.hurt"
+  },
+  "entity.hellhound.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wolf_angry.growl",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "entity.blaze.burn",
+        "pitch": 0.8,
+        "volume": 0.3
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.hellhound.ambient"
+  },
+  "entity.hellhound.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wolf_angry.death",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "entity.blaze.death",
+        "pitch": 1.4,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.hellhound.death"
+  },
+  "entity.hellhound.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.wolf_angry.hurt",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.hellhound.hurt"
+  },
+  "entity.hoary_silverfish.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.ambient",
+        "pitch": 1.2
+      },
+      {
+        "type": "event",
+        "name": "block.powder_snow.step",
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.hoary_silverfish.ambient"
+  },
+  "entity.hoary_silverfish.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.death",
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.hoary_silverfish.death"
+  },
+  "entity.hoary_silverfish.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.hurt",
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.hoary_silverfish.hurt"
+  },
+  "entity.infernal_creeper.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.blaze.burn",
+        "pitch": 0.8,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.infernal_creeper.ambient"
+  },
+  "entity.infernal_creeper.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.creeper.death",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.infernal_creeper.death"
+  },
+  "entity.infernal_creeper.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.creeper.hurt",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "entity.blaze.hurt",
+        "pitch": 1.3,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.infernal_creeper.hurt"
+  },
+  "entity.invisible_stalker.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.enderman.ambient",
+        "pitch": 0.5,
+        "volume": 0.4
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.invisible_stalker.ambient"
+  },
+  "entity.invisible_stalker.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.enderman.death",
+        "pitch": 0.6,
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.invisible_stalker.death"
+  },
+  "entity.invisible_stalker.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.enderman.hurt",
+        "pitch": 0.6,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.invisible_stalker.hurt"
+  },
+  "entity.jelly.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.squish",
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.jelly.ambient"
+  },
+  "entity.jelly.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.death",
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.jelly.death"
+  },
+  "entity.jelly.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.hurt",
+        "pitch": 1.2
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.jelly.hurt"
+  },
+  "entity.longdead.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.skeleton.ambient",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.longdead.ambient"
+  },
+  "entity.longdead.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.skeleton.death",
+        "pitch": 0.75
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.longdead.death"
+  },
+  "entity.longdead.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.skeleton.hurt",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.longdead.hurt"
+  },
+  "entity.longdead_guardian.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.skeleton.ambient",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "entity.stray.ambient",
+        "pitch": 0.8,
+        "volume": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.longdead_guardian.ambient"
+  },
+  "entity.longdead_guardian.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.skeleton.death",
+        "pitch": 0.65
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.longdead_guardian.death"
+  },
+  "entity.longdead_guardian.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.skeleton.hurt",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.longdead_guardian.hurt"
+  },
+  "entity.netherspawn.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.ambient",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "entity.blaze.burn",
+        "volume": 0.3
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.netherspawn.ambient"
+  },
+  "entity.netherspawn.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.death",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.netherspawn.death"
+  },
+  "entity.netherspawn.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.silverfish.hurt",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.netherspawn.hurt"
+  },
+  "entity.nightwing.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.phantom.ambient",
+        "pitch": 1.6,
+        "volume": 0.5
+      },
+      {
+        "type": "event",
+        "name": "entity.bat.ambient",
+        "pitch": 0.7,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.nightwing.ambient"
+  },
+  "entity.nightwing.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.phantom.death",
+        "pitch": 1.4,
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.nightwing.death"
+  },
+  "entity.nightwing.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.phantom.hurt",
+        "pitch": 1.5,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.nightwing.hurt"
+  },
+  "entity.ooze.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.squish",
+        "pitch": 0.7
+      },
+      {
+        "type": "event",
+        "name": "block.mud.step",
+        "pitch": 0.8,
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ooze.ambient"
+  },
+  "entity.ooze.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.death",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ooze.death"
+  },
+  "entity.ooze.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.slime.hurt",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.ooze.hurt"
+  },
+  "entity.phase_spider.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.ambient",
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.phase_spider.ambient"
+  },
+  "entity.phase_spider.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.death",
+        "pitch": 1.3
+      },
+      {
+        "type": "event",
+        "name": "entity.enderman.teleport",
+        "pitch": 1.6,
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.phase_spider.death"
+  },
+  "entity.phase_spider.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.hurt",
+        "pitch": 1.3
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.phase_spider.hurt"
+  },
+  "entity.pudding.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.magma_cube.squish",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.pudding.ambient"
+  },
+  "entity.pudding.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.magma_cube.death",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.pudding.death"
+  },
+  "entity.pudding.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.magma_cube.hurt",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.pudding.hurt"
+  },
+  "entity.revenant.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie_villager.ambient",
+        "pitch": 0.6
+      },
+      {
+        "type": "event",
+        "name": "entity.zombie.ambient",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.revenant.ambient"
+  },
+  "entity.revenant.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie.death",
+        "pitch": 0.55
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.revenant.death"
+  },
+  "entity.revenant.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.zombie.hurt",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.revenant.hurt"
+  },
+  "entity.shadow.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.phantom.ambient",
+        "pitch": 0.5,
+        "volume": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.shadow.ambient"
+  },
+  "entity.shadow.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.phantom.death",
+        "pitch": 0.5
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.shadow.death"
+  },
+  "entity.shadow.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.phantom.hurt",
+        "pitch": 0.6,
+        "volume": 0.9
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.shadow.hurt"
+  },
+  "entity.vampire_bat.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.bat.ambient",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.vampire_bat.ambient"
+  },
+  "entity.vampire_bat.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.bat.death",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.vampire_bat.death"
+  },
+  "entity.vampire_bat.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.bat.hurt",
+        "pitch": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.vampire_bat.hurt"
+  },
+  "entity.wight.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.vex.ambient",
+        "pitch": 0.6,
+        "volume": 0.9
+      },
+      {
+        "type": "event",
+        "name": "entity.zombie.ambient",
+        "pitch": 1.35,
+        "volume": 0.5
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.wight.ambient"
+  },
+  "entity.wight.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.vex.death",
+        "pitch": 0.6
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.wight.death"
+  },
+  "entity.wight.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.vex.hurt",
+        "pitch": 0.7
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.wight.hurt"
+  },
+  "entity.wood_spider.ambient": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.ambient",
+        "pitch": 1.5,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.wood_spider.ambient"
+  },
+  "entity.wood_spider.death": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.death",
+        "pitch": 1.5,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.wood_spider.death"
+  },
+  "entity.wood_spider.hurt": {
+    "sounds": [
+      {
+        "type": "event",
+        "name": "entity.spider.hurt",
+        "pitch": 1.5,
+        "volume": 0.8
+      }
+    ],
+    "subtitle": "subtitles.hardscrabble.entity.wood_spider.hurt"
+  }
+}

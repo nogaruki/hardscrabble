@@ -1,0 +1,12 @@
+{
+  "type": "hardscrabble:bowl_shapeless",
+  "ingredients": [
+    "hardscrabble:flour",
+    "minecraft:sugar",
+    "minecraft:egg",
+    "hardscrabble:milk_bowl"
+  ],
+  "result": {
+    "id": "minecraft:cake"
+  }
+}

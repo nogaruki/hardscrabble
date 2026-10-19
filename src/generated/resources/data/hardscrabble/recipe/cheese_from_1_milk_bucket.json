@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#c:buckets/milk"
+  ],
+  "result": {
+    "id": "hardscrabble:cheese"
+  }
+}

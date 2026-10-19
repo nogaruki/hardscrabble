@@ -1,0 +1,19 @@
+{
+  "layers": {
+    "horse_body": [
+      {
+        "texture": "hardscrabble:silver"
+      }
+    ],
+    "humanoid": [
+      {
+        "texture": "hardscrabble:silver"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "hardscrabble:silver"
+      }
+    ]
+  }
+}

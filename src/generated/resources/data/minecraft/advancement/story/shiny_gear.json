@@ -1,0 +1,65 @@
+{
+  "parent": "minecraft:story/mine_diamond",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:mithril_helmet"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "c1": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:mithril_chestplate"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "c2": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:mithril_leggings"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "c3": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:mithril_boots"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.story.shiny_gear.description"
+    },
+    "icon": {
+      "id": "hardscrabble:mithril_chestplate"
+    },
+    "title": {
+      "translate": "advancements.story.shiny_gear.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0",
+      "c1",
+      "c2",
+      "c3"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

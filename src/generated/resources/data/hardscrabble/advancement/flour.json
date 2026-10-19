@@ -1,0 +1,33 @@
+{
+  "parent": "hardscrabble:build_oven",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:flour"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.flour.description"
+    },
+    "icon": {
+      "id": "hardscrabble:flour"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.flour.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

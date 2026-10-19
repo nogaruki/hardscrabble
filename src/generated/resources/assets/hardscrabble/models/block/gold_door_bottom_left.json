@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left",
+  "textures": {
+    "bottom": "hardscrabble:block/gold_door_bottom",
+    "top": "hardscrabble:block/gold_door_top"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "parent": "hardscrabble:wear_all_plate_armor",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:equipment": {
+              "chest": {
+                "items": "hardscrabble:adamantium_chestplate"
+              },
+              "feet": {
+                "items": "hardscrabble:adamantium_boots"
+              },
+              "head": {
+                "items": "hardscrabble:adamantium_helmet"
+              },
+              "legs": {
+                "items": "hardscrabble:adamantium_leggings"
+              }
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.wear_all_adamantium_plate_armor.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "hardscrabble:adamantium_chestplate"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.wear_all_adamantium_plate_armor.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

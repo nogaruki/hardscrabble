@@ -1,0 +1,31 @@
+{
+  "parent": "hardscrabble:mithril_ingot",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": "hardscrabble:netherrack_furnace"
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.netherrack_furnace.description"
+    },
+    "icon": {
+      "id": "hardscrabble:netherrack_furnace"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.netherrack_furnace.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

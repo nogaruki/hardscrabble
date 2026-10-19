@@ -1,0 +1,26 @@
+{
+  "parent": "hardscrabble:bookshelves",
+  "criteria": {
+    "c0": {
+      "trigger": "minecraft:enchanted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.enchanter.description"
+    },
+    "icon": {
+      "id": "minecraft:enchanting_table"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.enchanter.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

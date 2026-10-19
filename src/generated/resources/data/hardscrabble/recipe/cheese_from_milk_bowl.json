@@ -1,0 +1,12 @@
+{
+  "type": "hardscrabble:bowl_shapeless",
+  "ingredients": [
+    "hardscrabble:milk_bowl",
+    "hardscrabble:milk_bowl",
+    "hardscrabble:milk_bowl",
+    "hardscrabble:milk_bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:cheese"
+  }
+}

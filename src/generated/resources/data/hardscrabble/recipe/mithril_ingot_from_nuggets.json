@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "mithril_ingot",
+  "key": {
+    "#": "hardscrabble:mithril_nugget"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "hardscrabble:mithril_ingot"
+  }
+}

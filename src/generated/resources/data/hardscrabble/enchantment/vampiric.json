@@ -1,0 +1,27 @@
+{
+  "anvil_cost": 8,
+  "description": {
+    "translate": "enchantment.hardscrabble.vampiric"
+  },
+  "effects": {
+    "hardscrabble:vampiric": {
+      "type": "minecraft:linear",
+      "base": 0.1,
+      "per_level_above_first": 0.1
+    }
+  },
+  "max_cost": {
+    "base": 69,
+    "per_level_above_first": 10
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 19,
+    "per_level_above_first": 10
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#hardscrabble:enchantable/vampiric",
+  "weight": 1
+}

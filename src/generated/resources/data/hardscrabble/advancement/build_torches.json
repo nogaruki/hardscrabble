@@ -1,0 +1,31 @@
+{
+  "parent": "hardscrabble:build_workbench",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:torch"
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.build_torches.description"
+    },
+    "icon": {
+      "id": "minecraft:torch"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.build_torches.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

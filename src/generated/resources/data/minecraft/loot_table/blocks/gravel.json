@@ -1,0 +1,88 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": "minecraft:tool/can_silk_touch",
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gravel"
+        }
+      ],
+      "rolls": 1
+    },
+    {
+      "condition": {
+        "type": "minecraft:all_of",
+        "terms": [
+          {
+            "type": "minecraft:inverted",
+            "term": "minecraft:tool/can_silk_touch"
+          },
+          {
+            "type": "minecraft:survives_explosion"
+          }
+        ]
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gravel",
+          "weight": 157464
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:flint_shard",
+          "weight": 32805
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:copper_nugget",
+          "weight": 11664
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:silver_nugget",
+          "weight": 3888
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:flint",
+          "weight": 2187
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:gold_nugget",
+          "weight": 1296
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:obsidian_shard",
+          "weight": 432
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:emerald_shard",
+          "weight": 144
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:diamond_shard",
+          "weight": 48
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:mithril_nugget",
+          "weight": 16
+        },
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:adamantium_nugget",
+          "weight": 8
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "minecraft:blocks/gravel"
+}

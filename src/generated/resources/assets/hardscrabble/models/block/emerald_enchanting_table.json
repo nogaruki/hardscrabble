@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/enchanting_table",
+  "textures": {
+    "bottom": "hardscrabble:block/emerald_enchanting_table_bottom",
+    "particle": "hardscrabble:block/emerald_enchanting_table_bottom",
+    "side": "hardscrabble:block/emerald_enchanting_table_side",
+    "top": "hardscrabble:block/emerald_enchanting_table_top"
+  }
+}

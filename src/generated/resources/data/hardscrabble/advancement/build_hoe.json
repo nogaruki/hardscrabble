@@ -1,0 +1,31 @@
+{
+  "parent": "hardscrabble:better_tools",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": "#minecraft:hoes"
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.build_hoe.description"
+    },
+    "icon": {
+      "id": "minecraft:copper_hoe"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.build_hoe.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

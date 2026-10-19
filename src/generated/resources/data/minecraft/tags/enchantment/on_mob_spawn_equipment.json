@@ -1,0 +1,7 @@
+{
+  "remove": [
+    "minecraft:mending",
+    "minecraft:infinity"
+  ],
+  "values": []
+}

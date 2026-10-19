@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "key": {
+    "X": "hardscrabble:ancient_metal_ingot"
+  },
+  "pattern": [
+    "XX",
+    "XX",
+    "XX"
+  ],
+  "result": {
+    "count": 3,
+    "id": "hardscrabble:ancient_metal_door"
+  }
+}

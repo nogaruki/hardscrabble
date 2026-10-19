@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:cooked_chicken",
+    "minecraft:carrot",
+    "hardscrabble:onion",
+    "hardscrabble:water_bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:chicken_soup"
+  }
+}

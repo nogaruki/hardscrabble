@@ -1,0 +1,33 @@
+{
+  "parent": "hardscrabble:obsidian_furnace",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:mithril_ingot"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.mithril_ingot.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "hardscrabble:mithril_ingot"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.mithril_ingot.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

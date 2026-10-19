@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:acquire_iron",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "event": "crystal_breaker"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.crystal_breaker.description"
+    },
+    "icon": {
+      "id": "minecraft:diamond_ore"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.crystal_breaker.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

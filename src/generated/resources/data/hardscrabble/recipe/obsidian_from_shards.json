@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard",
+    "hardscrabble:obsidian_shard"
+  ],
+  "result": {
+    "id": "minecraft:obsidian"
+  }
+}

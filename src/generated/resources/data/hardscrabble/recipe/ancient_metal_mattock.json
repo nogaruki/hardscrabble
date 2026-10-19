@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "X": "hardscrabble:ancient_metal_ingot"
+  },
+  "pattern": [
+    "XXX",
+    "X# ",
+    " # "
+  ],
+  "result": {
+    "id": "hardscrabble:ancient_metal_mattock"
+  }
+}

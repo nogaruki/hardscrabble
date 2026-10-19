@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:build_hoe",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "event": "soil_enrichment"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.soil_enrichment.description"
+    },
+    "icon": {
+      "id": "hardscrabble:manure"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.soil_enrichment.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

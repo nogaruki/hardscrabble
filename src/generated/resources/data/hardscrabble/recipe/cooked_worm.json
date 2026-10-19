@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "ingredient": "hardscrabble:worm",
+  "result": {
+    "id": "hardscrabble:cooked_worm"
+  }
+}

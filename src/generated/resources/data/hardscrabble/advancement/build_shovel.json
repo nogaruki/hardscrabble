@@ -1,0 +1,31 @@
+{
+  "parent": "hardscrabble:build_workbench",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": "#minecraft:shovels"
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.build_shovel.description"
+    },
+    "icon": {
+      "id": "hardscrabble:flint_shovel"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.build_shovel.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

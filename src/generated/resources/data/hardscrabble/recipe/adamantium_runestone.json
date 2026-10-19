@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "N": "hardscrabble:adamantium_nugget",
+    "O": "minecraft:obsidian"
+  },
+  "pattern": [
+    " N ",
+    "NON",
+    " N "
+  ],
+  "result": {
+    "id": "hardscrabble:adamantium_runestone"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_stone_bucket": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:copper_stone_bucket"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "hardscrabble:copper_bucket_from_stone_bucket"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_stone_bucket"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hardscrabble:copper_bucket_from_stone_bucket"
+    ]
+  }
+}

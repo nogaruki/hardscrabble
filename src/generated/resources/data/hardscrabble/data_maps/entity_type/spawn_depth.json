@@ -1,0 +1,154 @@
+{
+  "values": {
+    "hardscrabble:blob": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:blob"
+        }
+      ],
+      "max_y": 40
+    },
+    "hardscrabble:bone_lord": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:bone_lord"
+        }
+      ],
+      "max_y": 32
+    },
+    "hardscrabble:demon_spider": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:demon_spider"
+        }
+      ],
+      "max_y": 32
+    },
+    "hardscrabble:earth_elemental": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:earth_elemental"
+        }
+      ],
+      "max_y": 40
+    },
+    "hardscrabble:ghoul": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:ghoul"
+        }
+      ],
+      "max_y": 56
+    },
+    "hardscrabble:hellhound": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:hellhound"
+        }
+      ],
+      "max_y": 32
+    },
+    "hardscrabble:invisible_stalker": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:invisible_stalker"
+        }
+      ],
+      "max_y": 40
+    },
+    "hardscrabble:nightwing": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:nightwing"
+        }
+      ],
+      "max_y": 32
+    },
+    "hardscrabble:ooze": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:ooze"
+        }
+      ],
+      "max_y": 32
+    },
+    "hardscrabble:phase_spider": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:phase_spider"
+        }
+      ],
+      "max_y": 32
+    },
+    "hardscrabble:pudding": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:pudding"
+        }
+      ],
+      "max_y": 24
+    },
+    "hardscrabble:revenant": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:revenant"
+        }
+      ],
+      "max_y": 44
+    },
+    "hardscrabble:shadow": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:shadow"
+        }
+      ],
+      "max_y": 32
+    },
+    "hardscrabble:vampire_bat": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:vampire_bat"
+        }
+      ],
+      "max_y": 48
+    },
+    "hardscrabble:wight": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:wight"
+        }
+      ],
+      "max_y": 48
+    }
+  }
+}

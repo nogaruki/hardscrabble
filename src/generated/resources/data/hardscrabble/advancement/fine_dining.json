@@ -1,0 +1,44 @@
+{
+  "parent": "hardscrabble:build_oven",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hardscrabble:beef_stew",
+            "hardscrabble:chicken_soup",
+            "hardscrabble:vegetable_soup",
+            "hardscrabble:cream_of_mushroom_soup",
+            "hardscrabble:cream_of_vegetable_soup",
+            "hardscrabble:pumpkin_soup",
+            "hardscrabble:mashed_potatoes",
+            "hardscrabble:ice_cream",
+            "hardscrabble:sorbet",
+            "hardscrabble:porridge",
+            "hardscrabble:cereal",
+            "hardscrabble:salad"
+          ]
+        }
+      },
+      "trigger": "minecraft:consume_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.fine_dining.description"
+    },
+    "icon": {
+      "id": "hardscrabble:beef_stew"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.fine_dining.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": "minecraft:feather",
+    "N": "hardscrabble:ancient_metal_nugget",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "N",
+    "S",
+    "F"
+  ],
+  "result": {
+    "id": "hardscrabble:ancient_metal_arrow"
+  }
+}

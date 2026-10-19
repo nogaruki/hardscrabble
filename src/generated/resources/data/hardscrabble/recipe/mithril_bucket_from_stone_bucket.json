@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "hardscrabble:mithril_stone_bucket"
+  ],
+  "result": {
+    "id": "hardscrabble:mithril_bucket"
+  }
+}

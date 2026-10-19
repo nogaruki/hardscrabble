@@ -1,0 +1,51 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "dev.mite.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "AbstractCubeMobAccessor",
+    "AbstractFurnaceBlockEntityMixin",
+    "AbstractFurnaceMenuMixin",
+    "BlockMixin",
+    "BlockStateBaseMixin",
+    "CrafterBlockMixin",
+    "CraftingMenuMixin",
+    "CrossCollisionBlockMixin",
+    "DesertPyramidPieceMixin",
+    "EnvironmentAttributeSystemMixin",
+    "ExperienceOrbMixin",
+    "FishingHookMixin",
+    "FoodDataMixin",
+    "MushroomBlockMixin",
+    "IglooPieceMixin",
+    "InfestedBlockMixin",
+    "LivingEntityClimbMixin",
+    "MerchantOfferMixin",
+    "MonsterRoomFeatureMixin",
+    "NaturalSpawnerMixin",
+    "NetherPortalBlockMixin",
+    "OverworldBiomeBuilderMixin",
+    "PlayerMixin",
+    "PlayerReachMixin",
+    "ProjectileAccessor",
+    "RegenerationMobEffectMixin",
+    "SaturationMobEffectMixin",
+    "RunAroundLikeCrazyGoalMixin",
+    "ServerLevelMixin",
+    "ServerLevelSnowMixin",
+    "SquidAccessor",
+    "SwampHutPieceMixin",
+    "TargetGoalAccessor",
+    "VillagerMixin",
+    "WorldDimensionsMixin",
+    "ZombieVillagerAccessor"
+  ],
+  "client": [
+    "LocalPlayerReachMixin",
+    "SkyRendererMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

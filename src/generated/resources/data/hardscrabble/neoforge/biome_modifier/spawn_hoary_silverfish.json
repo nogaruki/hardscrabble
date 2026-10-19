@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#hardscrabble:is_underworld",
+  "spawners": {
+    "type": "hardscrabble:hoary_silverfish",
+    "count": {
+      "type": "minecraft:uniform",
+      "max_inclusive": 2,
+      "min_inclusive": 1
+    },
+    "weight": 10
+  }
+}

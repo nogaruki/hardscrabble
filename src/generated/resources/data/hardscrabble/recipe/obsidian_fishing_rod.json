@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "H": "hardscrabble:obsidian_shard",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "  #",
+    " #S",
+    "#SH"
+  ],
+  "result": {
+    "id": "hardscrabble:obsidian_fishing_rod"
+  }
+}

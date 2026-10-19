@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "adamantium_nugget",
+  "ingredients": [
+    "hardscrabble:adamantium_ingot"
+  ],
+  "result": {
+    "count": 9,
+    "id": "hardscrabble:adamantium_nugget"
+  }
+}

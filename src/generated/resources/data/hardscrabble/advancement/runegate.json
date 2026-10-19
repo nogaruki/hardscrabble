@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:mithril_ingot",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "event": "runegate"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.runegate.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "hardscrabble:mithril_runestone"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.runegate.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

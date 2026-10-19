@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "#c:buckets/water",
+    "minecraft:bowl",
+    "minecraft:bowl",
+    "minecraft:bowl",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "count": 4,
+    "id": "hardscrabble:water_bowl"
+  }
+}

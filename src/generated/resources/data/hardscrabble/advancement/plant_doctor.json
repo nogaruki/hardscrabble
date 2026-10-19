@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:build_hoe",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "event": "plant_doctor"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.plant_doctor.description"
+    },
+    "icon": {
+      "id": "minecraft:wheat"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.plant_doctor.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

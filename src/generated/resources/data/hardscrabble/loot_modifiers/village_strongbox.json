@@ -1,0 +1,21 @@
+{
+  "type": "neoforge:add_table",
+  "condition": {
+    "type": "minecraft:any_of",
+    "terms": [
+      {
+        "type": "neoforge:loot_table_id",
+        "loot_table_id": "minecraft:chests/village/village_weaponsmith"
+      },
+      {
+        "type": "neoforge:loot_table_id",
+        "loot_table_id": "minecraft:chests/village/village_toolsmith"
+      },
+      {
+        "type": "neoforge:loot_table_id",
+        "loot_table_id": "minecraft:chests/village/village_armorer"
+      }
+    ]
+  },
+  "table": "hardscrabble:inject/village_strongbox"
+}

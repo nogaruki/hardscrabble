@@ -1,0 +1,448 @@
+path,category,subject,material,model,size,batch,notes
+src/main/resources/assets/hardscrabble/textures/block/adamantium_anvil.png,block,Adamantium Anvil,adamantium,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_anvil_top.png,block,Adamantium Anvil (top),adamantium,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_bars.png,block,Adamantium Bars,adamantium,block/template_bars item/generated,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_block.png,block,Block of Adamantium,adamantium,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_door_bottom.png,block,Adamantium Door (bottom),adamantium,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_door_top.png,block,Adamantium Door (top),adamantium,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_ore.png,block,Adamantium Ore,adamantium,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_runestone.png,block,Adamantium Runestone,adamantium,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_strongbox.png,block,Adamantium Strongbox,adamantium,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/adamantium_workbench.png,block,Adamantium Workbench,adamantium,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_anvil.png,block,Ancient Metal Anvil,ancient_metal,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_anvil_top.png,block,Ancient Metal Anvil (top),ancient_metal,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_bars.png,block,Ancient Metal Bars,ancient_metal,block/template_bars item/generated,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_block.png,block,Block of Ancient Metal,ancient_metal,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_door_bottom.png,block,Ancient Metal Door (bottom),ancient_metal,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_door_top.png,block,Ancient Metal Door (top),ancient_metal,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_strongbox.png,block,Ancient Metal Strongbox,ancient_metal,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/ancient_metal_workbench.png,block,Ancient Metal Workbench,ancient_metal,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/clay_furnace_front.png,block,Clay Oven (front),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/clay_furnace_front_on.png,block,Clay Oven (front on),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/clay_furnace_side.png,block,Clay Oven (side),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/clay_furnace_top.png,block,Clay Oven (top),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/copper_anvil.png,block,Copper Anvil,copper,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/copper_anvil_top.png,block,Copper Anvil (top),copper,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/copper_strongbox.png,block,Copper Strongbox,copper,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/copper_workbench.png,block,Copper Workbench,copper,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/core.png,block,Core,,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/dead_carrots.png,block,Dead Carrots,,block/cross,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/dead_onions.png,block,Dead Onions,,block/cross,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/dead_potatoes.png,block,Dead Potatoes,,block/cross,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/dead_wheat.png,block,Dead Wheat,,block/cross,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/deepslate_adamantium_ore.png,block,Deepslate Adamantium Ore,adamantium,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/deepslate_mithril_ore.png,block,Deepslate Mithril Ore,mithril,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/deepslate_silver_ore.png,block,Deepslate Silver Ore,silver,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/emerald_enchanting_table_bottom.png,block,Emerald Enchanting Table (bottom),emerald,block/enchanting_table,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/emerald_enchanting_table_side.png,block,Emerald Enchanting Table (side),emerald,block/enchanting_table,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/emerald_enchanting_table_top.png,block,Emerald Enchanting Table (top),emerald,block/enchanting_table,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/gold_anvil.png,block,Gold Anvil,gold,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/gold_anvil_top.png,block,Gold Anvil (top),gold,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/gold_bars.png,block,Gold Bars,gold,block/template_bars item/generated,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/gold_door_bottom.png,block,Gold Door (bottom),gold,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/gold_door_top.png,block,Gold Door (top),gold,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/gold_strongbox.png,block,Gold Strongbox,gold,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/gold_workbench.png,block,Gold Workbench,gold,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/iron_strongbox.png,block,Iron Strongbox,iron,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/iron_workbench.png,block,Iron Workbench,iron,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/large_clay_furnace_front.png,block,Large Clay Oven (front),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/large_clay_furnace_front_on.png,block,Large Clay Oven (front on),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/large_clay_furnace_side.png,block,Large Clay Oven (side),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/large_clay_furnace_top.png,block,Large Clay Oven (top),clay,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mantle.png,block,Mantle,,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_anvil.png,block,Mithril Anvil,mithril,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_anvil_top.png,block,Mithril Anvil (top),mithril,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_bars.png,block,Mithril Bars,mithril,block/template_bars item/generated,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_block.png,block,Block of Mithril,mithril,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_door_bottom.png,block,Mithril Door (bottom),mithril,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_door_top.png,block,Mithril Door (top),mithril,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_ore.png,block,Mithril Ore,mithril,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_runestone.png,block,Mithril Runestone,mithril,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_strongbox.png,block,Mithril Strongbox,mithril,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/mithril_workbench.png,block,Mithril Workbench,mithril,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/netherrack_furnace_front.png,block,Netherrack Furnace (front),netherrack,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/netherrack_furnace_front_on.png,block,Netherrack Furnace (front on),netherrack,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/netherrack_furnace_side.png,block,Netherrack Furnace (side),netherrack,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/netherrack_furnace_top.png,block,Netherrack Furnace (top),netherrack,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/obsidian_furnace_front.png,block,Obsidian Furnace (front),obsidian,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/obsidian_furnace_front_on.png,block,Obsidian Furnace (front on),obsidian,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/obsidian_furnace_side.png,block,Obsidian Furnace (side),obsidian,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/obsidian_furnace_top.png,block,Obsidian Furnace (top),obsidian,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/obsidian_workbench.png,block,Obsidian Workbench,obsidian,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/onions_stage0.png,block,Onions (stage0),,block/crop,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/onions_stage1.png,block,Onions (stage1),,block/crop,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/onions_stage2.png,block,Onions (stage2),,block/crop,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/onions_stage3.png,block,Onions (stage3),,block/crop,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/sandstone_furnace_front.png,block,Sandstone Furnace (front),sandstone,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/sandstone_furnace_front_on.png,block,Sandstone Furnace (front on),sandstone,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/sandstone_furnace_side.png,block,Sandstone Furnace (side),sandstone,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/sandstone_furnace_top.png,block,Sandstone Furnace (top),sandstone,block/orientable,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_anvil.png,block,Silver Anvil,silver,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_anvil_top.png,block,Silver Anvil (top),silver,block/template_anvil,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_bars.png,block,Silver Bars,silver,block/template_bars item/generated,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_block.png,block,Block of Silver,silver,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_door_bottom.png,block,Silver Door (bottom),silver,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_door_top.png,block,Silver Door (top),silver,block/door,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_ore.png,block,Silver Ore,silver,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_strongbox.png,block,Silver Strongbox,silver,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/block/silver_workbench.png,block,Silver Workbench,silver,block/cube_all,16x16,C,
+src/main/resources/assets/hardscrabble/textures/entity/ancient_bone_lord.png,entity,Ancient Bone Lord,,skeleton,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/black_widow.png,entity,Black Widow,,spider,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/blob.png,entity,Blob,,slime,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/bone_lord.png,entity,Bone Lord,,skeleton,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/clay_golem.png,entity,Clay Golem,,zombie,64x64,D,
+src/main/resources/assets/hardscrabble/textures/entity/copperspine.png,entity,Copperspine,,silverfish,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/demon_spider.png,entity,Demon Spider,,spider,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/dire_wolf.png,entity,Dire Wolf,,wolf,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/earth_elemental.png,entity,Earth Elemental,,zombie,64x64,D,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/horse_body/silver.png,armor_layer,silver armour worn (horse_body),silver,horse_body,64x64,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/adamantium.png,armor_layer,adamantium armour worn (humanoid),adamantium,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/adamantium_chainmail.png,armor_layer,adamantium chainmail armour worn (humanoid),adamantium,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/ancient_metal.png,armor_layer,ancient metal armour worn (humanoid),ancient_metal,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/ancient_metal_chainmail.png,armor_layer,ancient metal chainmail armour worn (humanoid),ancient_metal,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/copper_chainmail.png,armor_layer,copper chainmail armour worn (humanoid),copper,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/golden_chainmail.png,armor_layer,golden chainmail armour worn (humanoid),gold,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/mithril.png,armor_layer,mithril armour worn (humanoid),mithril,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/mithril_chainmail.png,armor_layer,mithril chainmail armour worn (humanoid),mithril,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/rusted_iron.png,armor_layer,rusted iron armour worn (humanoid),rusted_iron,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/rusted_iron_chainmail.png,armor_layer,rusted iron chainmail armour worn (humanoid),rusted_iron,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/silver.png,armor_layer,silver armour worn (humanoid),silver,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid/silver_chainmail.png,armor_layer,silver chainmail armour worn (humanoid),silver,humanoid,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/adamantium.png,armor_layer,adamantium armour worn (humanoid_leggings),adamantium,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/adamantium_chainmail.png,armor_layer,adamantium chainmail armour worn (humanoid_leggings),adamantium,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/ancient_metal.png,armor_layer,ancient metal armour worn (humanoid_leggings),ancient_metal,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/ancient_metal_chainmail.png,armor_layer,ancient metal chainmail armour worn (humanoid_leggings),ancient_metal,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/copper_chainmail.png,armor_layer,copper chainmail armour worn (humanoid_leggings),copper,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/golden_chainmail.png,armor_layer,golden chainmail armour worn (humanoid_leggings),gold,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/mithril.png,armor_layer,mithril armour worn (humanoid_leggings),mithril,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/mithril_chainmail.png,armor_layer,mithril chainmail armour worn (humanoid_leggings),mithril,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/rusted_iron.png,armor_layer,rusted iron armour worn (humanoid_leggings),rusted_iron,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/rusted_iron_chainmail.png,armor_layer,rusted iron chainmail armour worn (humanoid_leggings),rusted_iron,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/silver.png,armor_layer,silver armour worn (humanoid_leggings),silver,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/equipment/humanoid_leggings/silver_chainmail.png,armor_layer,silver chainmail armour worn (humanoid_leggings),silver,humanoid_leggings,64x32,A,
+src/main/resources/assets/hardscrabble/textures/entity/fire_elemental.png,entity,Fire Elemental,,blaze,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/ghoul.png,entity,Ghoul,,zombie,64x64,D,
+src/main/resources/assets/hardscrabble/textures/entity/giant_vampire_bat.png,entity,Giant Vampire Bat,,bat,32x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/hellhound.png,entity,Hellhound,,wolf,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/hoary_silverfish.png,entity,Hoary Silverfish,,silverfish,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/infernal_creeper.png,entity,Infernal Creeper,,creeper,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/invisible_stalker.png,entity,Invisible Stalker,,zombie,64x64,D,
+src/main/resources/assets/hardscrabble/textures/entity/jelly.png,entity,Jelly,,slime,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/longdead.png,entity,Longdead,,skeleton,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/longdead_guardian.png,entity,Longdead Guardian,,skeleton,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/netherspawn.png,entity,Netherspawn,,silverfish,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/nightwing.png,entity,Nightwing,,bat,32x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/ooze.png,entity,Ooze,,slime,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/phase_spider.png,entity,Phase Spider,,spider,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/pudding.png,entity,Pudding,,slime,64x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/revenant.png,entity,Revenant,,zombie,64x64,D,
+src/main/resources/assets/hardscrabble/textures/entity/shadow.png,entity,Shadow,,zombie,64x64,D,
+src/main/resources/assets/hardscrabble/textures/entity/vampire_bat.png,entity,Vampire Bat,,bat,32x32,D,
+src/main/resources/assets/hardscrabble/textures/entity/wight.png,entity,Wight,,zombie,64x64,D,
+src/main/resources/assets/hardscrabble/textures/entity/wood_spider.png,entity,Wood Spider,,cave_spider,64x32,D,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_arrow.png,weapon,Adamantium Arrow,adamantium,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/adamantium_axe.png,tool,Adamantium Axe,adamantium,item/handheld,16x16,A,shape axe
+src/main/resources/assets/hardscrabble/textures/item/adamantium_battle_axe.png,weapon,Adamantium Battle Axe,adamantium,item/handheld,16x16,A,shape battle_axe
+src/main/resources/assets/hardscrabble/textures/item/adamantium_boots.png,armor_item,Adamantium Boots,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_bucket.png,tool,Adamantium Bucket,adamantium,item/generated,16x16,A,shape bucket
+src/main/resources/assets/hardscrabble/textures/item/adamantium_chain.png,material,Adamantium Chain,adamantium,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_chainmail_boots.png,armor_item,Adamantium Chainmail Boots,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_chainmail_chestplate.png,armor_item,Adamantium Chainmail Chestplate,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_chainmail_helmet.png,armor_item,Adamantium Chainmail Helmet,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_chainmail_leggings.png,armor_item,Adamantium Chainmail Leggings,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_chestplate.png,armor_item,Adamantium Chestplate,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_coin.png,material,Adamantium Coin,adamantium,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_dagger.png,weapon,Adamantium Dagger,adamantium,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/adamantium_door.png,misc,Adamantium Door,adamantium,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_fishing_rod.png,tool,Adamantium Fishing Rod,adamantium,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/adamantium_fishing_rod_cast.png,tool,Adamantium Fishing Rod (cast),adamantium,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/adamantium_hatchet.png,tool,Adamantium Hatchet,adamantium,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/adamantium_helmet.png,armor_item,Adamantium Helmet,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_hoe.png,tool,Adamantium Hoe,adamantium,item/handheld,16x16,A,shape hoe
+src/main/resources/assets/hardscrabble/textures/item/adamantium_ingot.png,material,Adamantium Ingot,adamantium,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_lava_bucket.png,tool,Adamantium Lava Bucket,adamantium,item/generated,16x16,A,shape lava_bucket
+src/main/resources/assets/hardscrabble/textures/item/adamantium_leggings.png,armor_item,Adamantium Leggings,adamantium,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_mattock.png,tool,Adamantium Mattock,adamantium,item/handheld,16x16,A,shape mattock
+src/main/resources/assets/hardscrabble/textures/item/adamantium_milk_bucket.png,tool,Adamantium Milk Bucket,adamantium,item/generated,16x16,A,shape milk_bucket
+src/main/resources/assets/hardscrabble/textures/item/adamantium_nugget.png,material,Adamantium Nugget,adamantium,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/adamantium_pickaxe.png,tool,Adamantium Pickaxe,adamantium,item/handheld,16x16,A,shape pickaxe
+src/main/resources/assets/hardscrabble/textures/item/adamantium_scythe.png,tool,Adamantium Scythe,adamantium,item/handheld,16x16,A,shape scythe
+src/main/resources/assets/hardscrabble/textures/item/adamantium_shears.png,tool,Adamantium Shears,adamantium,item/handheld,16x16,A,shape shears
+src/main/resources/assets/hardscrabble/textures/item/adamantium_shovel.png,tool,Adamantium Shovel,adamantium,item/handheld,16x16,A,shape shovel
+src/main/resources/assets/hardscrabble/textures/item/adamantium_stone_bucket.png,tool,Adamantium Bucket of Stone,adamantium,item/generated,16x16,A,shape stone_bucket
+src/main/resources/assets/hardscrabble/textures/item/adamantium_sword.png,weapon,Adamantium Sword,adamantium,item/handheld,16x16,A,shape sword
+src/main/resources/assets/hardscrabble/textures/item/adamantium_war_hammer.png,weapon,Adamantium War Hammer,adamantium,item/handheld,16x16,A,shape war_hammer
+src/main/resources/assets/hardscrabble/textures/item/adamantium_water_bucket.png,tool,Adamantium Water Bucket,adamantium,item/generated,16x16,A,shape water_bucket
+src/main/resources/assets/hardscrabble/textures/item/ancient_bone_lord_spawn_egg.png,misc,Ancient Bone Lord Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_arrow.png,weapon,Ancient Metal Arrow,ancient_metal,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_axe.png,tool,Ancient Metal Axe,ancient_metal,item/handheld,16x16,A,shape axe
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_battle_axe.png,weapon,Ancient Metal Battle Axe,ancient_metal,item/handheld,16x16,A,shape battle_axe
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_boots.png,armor_item,Ancient Metal Boots,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_bow.png,weapon,Ancient Metal Bow,ancient_metal,item/bow,16x16,A,shape bow
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_bow_pulling_0.png,weapon,Ancient Metal Bow (pulling 0),ancient_metal,item/bow,16x16,A,shape bow_pulling_0
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_bow_pulling_1.png,weapon,Ancient Metal Bow (pulling 1),ancient_metal,item/bow,16x16,A,shape bow_pulling_1
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_bow_pulling_2.png,weapon,Ancient Metal Bow (pulling 2),ancient_metal,item/bow,16x16,A,shape bow_pulling_2
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_bucket.png,tool,Ancient Metal Bucket,ancient_metal,item/generated,16x16,A,shape bucket
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_chain.png,material,Ancient Metal Chain,ancient_metal,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_chainmail_boots.png,armor_item,Ancient Metal Chainmail Boots,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_chainmail_chestplate.png,armor_item,Ancient Metal Chainmail Chestplate,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_chainmail_helmet.png,armor_item,Ancient Metal Chainmail Helmet,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_chainmail_leggings.png,armor_item,Ancient Metal Chainmail Leggings,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_chestplate.png,armor_item,Ancient Metal Chestplate,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_coin.png,material,Ancient Metal Coin,ancient_metal,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_dagger.png,weapon,Ancient Metal Dagger,ancient_metal,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_door.png,misc,Ancient Metal Door,ancient_metal,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_fishing_rod.png,tool,Ancient Metal Fishing Rod,ancient_metal,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_fishing_rod_cast.png,tool,Ancient Metal Fishing Rod (cast),ancient_metal,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_hatchet.png,tool,Ancient Metal Hatchet,ancient_metal,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_helmet.png,armor_item,Ancient Metal Helmet,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_hoe.png,tool,Ancient Metal Hoe,ancient_metal,item/handheld,16x16,A,shape hoe
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_ingot.png,material,Ancient Metal Ingot,ancient_metal,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_lava_bucket.png,tool,Ancient Metal Lava Bucket,ancient_metal,item/generated,16x16,A,shape lava_bucket
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_leggings.png,armor_item,Ancient Metal Leggings,ancient_metal,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_mattock.png,tool,Ancient Metal Mattock,ancient_metal,item/handheld,16x16,A,shape mattock
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_milk_bucket.png,tool,Ancient Metal Milk Bucket,ancient_metal,item/generated,16x16,A,shape milk_bucket
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_nugget.png,material,Ancient Metal Nugget,ancient_metal,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_pickaxe.png,tool,Ancient Metal Pickaxe,ancient_metal,item/handheld,16x16,A,shape pickaxe
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_scythe.png,tool,Ancient Metal Scythe,ancient_metal,item/handheld,16x16,A,shape scythe
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_shears.png,tool,Ancient Metal Shears,ancient_metal,item/handheld,16x16,A,shape shears
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_shovel.png,tool,Ancient Metal Shovel,ancient_metal,item/handheld,16x16,A,shape shovel
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_stone_bucket.png,tool,Ancient Metal Bucket of Stone,ancient_metal,item/generated,16x16,A,shape stone_bucket
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_sword.png,weapon,Ancient Metal Sword,ancient_metal,item/handheld,16x16,A,shape sword
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_war_hammer.png,weapon,Ancient Metal War Hammer,ancient_metal,item/handheld,16x16,A,shape war_hammer
+src/main/resources/assets/hardscrabble/textures/item/ancient_metal_water_bucket.png,tool,Ancient Metal Water Bucket,ancient_metal,item/generated,16x16,A,shape water_bucket
+src/main/resources/assets/hardscrabble/textures/item/banana.png,food,Banana,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/beef_stew.png,food,Beef Stew,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/black_widow_spawn_egg.png,misc,Black Widow Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/blob_ball.png,material,Blob Ball,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/blob_spawn_egg.png,misc,Blob Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/bone_lord_spawn_egg.png,misc,Bone Lord Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/cereal.png,food,Cereal,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/cheese.png,food,Cheese,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/chicken_soup.png,food,Chicken Soup,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/chocolate.png,food,Chocolate,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/clay_golem_spawn_egg.png,misc,Clay Golem Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/cooked_worm.png,food,Cooked Worm,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/copper_arrow.png,weapon,Copper Arrow,copper,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/copper_battle_axe.png,weapon,Copper Battle Axe,copper,item/handheld,16x16,A,shape battle_axe
+src/main/resources/assets/hardscrabble/textures/item/copper_bucket.png,tool,Copper Bucket,copper,item/generated,16x16,A,shape bucket
+src/main/resources/assets/hardscrabble/textures/item/copper_chainmail_boots.png,armor_item,Copper Chainmail Boots,copper,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/copper_chainmail_chestplate.png,armor_item,Copper Chainmail Chestplate,copper,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/copper_chainmail_helmet.png,armor_item,Copper Chainmail Helmet,copper,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/copper_chainmail_leggings.png,armor_item,Copper Chainmail Leggings,copper,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/copper_coin.png,material,Copper Coin,copper,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/copper_dagger.png,weapon,Copper Dagger,copper,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/copper_fishing_rod.png,tool,Copper Fishing Rod,copper,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/copper_fishing_rod_cast.png,tool,Copper Fishing Rod (cast),copper,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/copper_hatchet.png,tool,Copper Hatchet,copper,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/copper_lava_bucket.png,tool,Copper Lava Bucket,copper,item/generated,16x16,A,shape lava_bucket
+src/main/resources/assets/hardscrabble/textures/item/copper_mattock.png,tool,Copper Mattock,copper,item/handheld,16x16,A,shape mattock
+src/main/resources/assets/hardscrabble/textures/item/copper_milk_bucket.png,tool,Copper Milk Bucket,copper,item/generated,16x16,A,shape milk_bucket
+src/main/resources/assets/hardscrabble/textures/item/copper_scythe.png,tool,Copper Scythe,copper,item/handheld,16x16,A,shape scythe
+src/main/resources/assets/hardscrabble/textures/item/copper_shears.png,tool,Copper Shears,copper,item/handheld,16x16,A,shape shears
+src/main/resources/assets/hardscrabble/textures/item/copper_stone_bucket.png,tool,Copper Bucket of Stone,copper,item/generated,16x16,A,shape stone_bucket
+src/main/resources/assets/hardscrabble/textures/item/copper_war_hammer.png,weapon,Copper War Hammer,copper,item/handheld,16x16,A,shape war_hammer
+src/main/resources/assets/hardscrabble/textures/item/copper_water_bucket.png,tool,Copper Water Bucket,copper,item/generated,16x16,A,shape water_bucket
+src/main/resources/assets/hardscrabble/textures/item/copperspine_spawn_egg.png,misc,Copperspine Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/cream_of_mushroom_soup.png,food,Cream of Mushroom Soup,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/cream_of_vegetable_soup.png,food,Cream of Vegetable Soup,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/demon_spider_spawn_egg.png,misc,Demon Spider Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/diamond_shard.png,material,Diamond Shard,diamond,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/dire_wolf_spawn_egg.png,misc,Dire Wolf Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/disenchanting_bottle.png,misc,Disenchanting Bottle,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/dough.png,food,Dough,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/earth_elemental_spawn_egg.png,misc,Earth Elemental Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/emerald_shard.png,material,Emerald Shard,emerald,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/enchanting_bottle.png,misc,Enchanting Bottle,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/fire_elemental_spawn_egg.png,misc,Fire Elemental Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/flint_axe.png,tool,Flint Axe,flint,item/handheld,16x16,A,shape axe
+src/main/resources/assets/hardscrabble/textures/item/flint_fishing_rod.png,tool,Flint Fishing Rod,flint,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/flint_fishing_rod_cast.png,tool,Flint Fishing Rod (cast),flint,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/flint_hatchet.png,tool,Flint Hatchet,flint,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/flint_knife.png,weapon,Flint Knife,flint,item/handheld,16x16,A,shape knife
+src/main/resources/assets/hardscrabble/textures/item/flint_shard.png,material,Flint Shard,flint,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/flint_shovel.png,tool,Flint Shovel,flint,item/handheld,16x16,A,shape shovel
+src/main/resources/assets/hardscrabble/textures/item/flour.png,material,Flour,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ghoul_spawn_egg.png,misc,Ghoul Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/giant_vampire_bat_spawn_egg.png,misc,Giant Vampire Bat Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/glass_shard.png,material,Glass Shard,glass,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/gold_bucket.png,tool,Gold Bucket,gold,item/generated,16x16,A,shape bucket
+src/main/resources/assets/hardscrabble/textures/item/gold_coin.png,material,Gold Coin,gold,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/gold_door.png,misc,Gold Door,gold,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/gold_fishing_rod.png,tool,Gold Fishing Rod,gold,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/gold_fishing_rod_cast.png,tool,Gold Fishing Rod (cast),gold,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/gold_lava_bucket.png,tool,Gold Lava Bucket,gold,item/generated,16x16,A,shape lava_bucket
+src/main/resources/assets/hardscrabble/textures/item/gold_milk_bucket.png,tool,Gold Milk Bucket,gold,item/generated,16x16,A,shape milk_bucket
+src/main/resources/assets/hardscrabble/textures/item/gold_stone_bucket.png,tool,Gold Bucket of Stone,gold,item/generated,16x16,A,shape stone_bucket
+src/main/resources/assets/hardscrabble/textures/item/gold_water_bucket.png,tool,Gold Water Bucket,gold,item/generated,16x16,A,shape water_bucket
+src/main/resources/assets/hardscrabble/textures/item/golden_arrow.png,weapon,Golden Arrow,gold,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/golden_battle_axe.png,weapon,Golden Battle Axe,gold,item/handheld,16x16,A,shape battle_axe
+src/main/resources/assets/hardscrabble/textures/item/golden_chain.png,material,Golden Chain,gold,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/golden_chainmail_boots.png,armor_item,Golden Chainmail Boots,gold,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/golden_chainmail_chestplate.png,armor_item,Golden Chainmail Chestplate,gold,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/golden_chainmail_helmet.png,armor_item,Golden Chainmail Helmet,gold,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/golden_chainmail_leggings.png,armor_item,Golden Chainmail Leggings,gold,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/golden_dagger.png,weapon,Golden Dagger,gold,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/golden_hatchet.png,tool,Golden Hatchet,gold,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/golden_mattock.png,tool,Golden Mattock,gold,item/handheld,16x16,A,shape mattock
+src/main/resources/assets/hardscrabble/textures/item/golden_scythe.png,tool,Golden Scythe,gold,item/handheld,16x16,A,shape scythe
+src/main/resources/assets/hardscrabble/textures/item/golden_shears.png,tool,Golden Shears,gold,item/handheld,16x16,A,shape shears
+src/main/resources/assets/hardscrabble/textures/item/golden_war_hammer.png,weapon,Golden War Hammer,gold,item/handheld,16x16,A,shape war_hammer
+src/main/resources/assets/hardscrabble/textures/item/hellhound_spawn_egg.png,misc,Hellhound Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/hoary_silverfish_spawn_egg.png,misc,Hoary Silverfish Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ice_cream.png,food,Ice Cream,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/infernal_creeper_spawn_egg.png,misc,Infernal Creeper Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/invisible_stalker_spawn_egg.png,misc,Invisible Stalker Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/iron_arrow.png,weapon,Iron Arrow,iron,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/iron_battle_axe.png,weapon,Iron Battle Axe,iron,item/handheld,16x16,A,shape battle_axe
+src/main/resources/assets/hardscrabble/textures/item/iron_dagger.png,weapon,Iron Dagger,iron,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/iron_fishing_rod.png,tool,Iron Fishing Rod,iron,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/iron_fishing_rod_cast.png,tool,Iron Fishing Rod (cast),iron,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/iron_hatchet.png,tool,Iron Hatchet,iron,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/iron_mattock.png,tool,Iron Mattock,iron,item/handheld,16x16,A,shape mattock
+src/main/resources/assets/hardscrabble/textures/item/iron_scythe.png,tool,Iron Scythe,iron,item/handheld,16x16,A,shape scythe
+src/main/resources/assets/hardscrabble/textures/item/iron_stone_bucket.png,tool,Iron Bucket of Stone,iron,item/generated,16x16,A,shape stone_bucket
+src/main/resources/assets/hardscrabble/textures/item/iron_war_hammer.png,weapon,Iron War Hammer,iron,item/handheld,16x16,A,shape war_hammer
+src/main/resources/assets/hardscrabble/textures/item/jelly_ball.png,material,Jelly Ball,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/jelly_spawn_egg.png,misc,Jelly Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/longdead_guardian_spawn_egg.png,misc,Longdead Guardian Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/longdead_spawn_egg.png,misc,Longdead Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/manure.png,material,Manure,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/mashed_potatoes.png,food,Mashed Potatoes,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/milk_bowl.png,food,Bowl of Milk,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/mithril_arrow.png,weapon,Mithril Arrow,mithril,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/mithril_axe.png,tool,Mithril Axe,mithril,item/handheld,16x16,A,shape axe
+src/main/resources/assets/hardscrabble/textures/item/mithril_battle_axe.png,weapon,Mithril Battle Axe,mithril,item/handheld,16x16,A,shape battle_axe
+src/main/resources/assets/hardscrabble/textures/item/mithril_boots.png,armor_item,Mithril Boots,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_bow.png,weapon,Mithril Bow,mithril,item/bow,16x16,A,shape bow
+src/main/resources/assets/hardscrabble/textures/item/mithril_bow_pulling_0.png,weapon,Mithril Bow (pulling 0),mithril,item/bow,16x16,A,shape bow_pulling_0
+src/main/resources/assets/hardscrabble/textures/item/mithril_bow_pulling_1.png,weapon,Mithril Bow (pulling 1),mithril,item/bow,16x16,A,shape bow_pulling_1
+src/main/resources/assets/hardscrabble/textures/item/mithril_bow_pulling_2.png,weapon,Mithril Bow (pulling 2),mithril,item/bow,16x16,A,shape bow_pulling_2
+src/main/resources/assets/hardscrabble/textures/item/mithril_bucket.png,tool,Mithril Bucket,mithril,item/generated,16x16,A,shape bucket
+src/main/resources/assets/hardscrabble/textures/item/mithril_chain.png,material,Mithril Chain,mithril,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/mithril_chainmail_boots.png,armor_item,Mithril Chainmail Boots,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_chainmail_chestplate.png,armor_item,Mithril Chainmail Chestplate,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_chainmail_helmet.png,armor_item,Mithril Chainmail Helmet,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_chainmail_leggings.png,armor_item,Mithril Chainmail Leggings,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_chestplate.png,armor_item,Mithril Chestplate,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_coin.png,material,Mithril Coin,mithril,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/mithril_dagger.png,weapon,Mithril Dagger,mithril,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/mithril_door.png,misc,Mithril Door,mithril,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/mithril_fishing_rod.png,tool,Mithril Fishing Rod,mithril,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/mithril_fishing_rod_cast.png,tool,Mithril Fishing Rod (cast),mithril,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/mithril_hatchet.png,tool,Mithril Hatchet,mithril,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/mithril_helmet.png,armor_item,Mithril Helmet,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_hoe.png,tool,Mithril Hoe,mithril,item/handheld,16x16,A,shape hoe
+src/main/resources/assets/hardscrabble/textures/item/mithril_ingot.png,material,Mithril Ingot,mithril,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/mithril_lava_bucket.png,tool,Mithril Lava Bucket,mithril,item/generated,16x16,A,shape lava_bucket
+src/main/resources/assets/hardscrabble/textures/item/mithril_leggings.png,armor_item,Mithril Leggings,mithril,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/mithril_mattock.png,tool,Mithril Mattock,mithril,item/handheld,16x16,A,shape mattock
+src/main/resources/assets/hardscrabble/textures/item/mithril_milk_bucket.png,tool,Mithril Milk Bucket,mithril,item/generated,16x16,A,shape milk_bucket
+src/main/resources/assets/hardscrabble/textures/item/mithril_nugget.png,material,Mithril Nugget,mithril,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/mithril_pickaxe.png,tool,Mithril Pickaxe,mithril,item/handheld,16x16,A,shape pickaxe
+src/main/resources/assets/hardscrabble/textures/item/mithril_scythe.png,tool,Mithril Scythe,mithril,item/handheld,16x16,A,shape scythe
+src/main/resources/assets/hardscrabble/textures/item/mithril_shears.png,tool,Mithril Shears,mithril,item/handheld,16x16,A,shape shears
+src/main/resources/assets/hardscrabble/textures/item/mithril_shovel.png,tool,Mithril Shovel,mithril,item/handheld,16x16,A,shape shovel
+src/main/resources/assets/hardscrabble/textures/item/mithril_stone_bucket.png,tool,Mithril Bucket of Stone,mithril,item/generated,16x16,A,shape stone_bucket
+src/main/resources/assets/hardscrabble/textures/item/mithril_sword.png,weapon,Mithril Sword,mithril,item/handheld,16x16,A,shape sword
+src/main/resources/assets/hardscrabble/textures/item/mithril_war_hammer.png,weapon,Mithril War Hammer,mithril,item/handheld,16x16,A,shape war_hammer
+src/main/resources/assets/hardscrabble/textures/item/mithril_water_bucket.png,tool,Mithril Water Bucket,mithril,item/generated,16x16,A,shape water_bucket
+src/main/resources/assets/hardscrabble/textures/item/netherspawn_spawn_egg.png,misc,Netherspawn Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/nightwing_spawn_egg.png,misc,Nightwing Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/obsidian_arrow.png,weapon,Obsidian Arrow,obsidian,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/obsidian_axe.png,tool,Obsidian Axe,obsidian,item/handheld,16x16,A,shape axe
+src/main/resources/assets/hardscrabble/textures/item/obsidian_fishing_rod.png,tool,Obsidian Fishing Rod,obsidian,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/obsidian_fishing_rod_cast.png,tool,Obsidian Fishing Rod (cast),obsidian,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/obsidian_hatchet.png,tool,Obsidian Hatchet,obsidian,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/obsidian_knife.png,weapon,Obsidian Knife,obsidian,item/handheld,16x16,A,shape knife
+src/main/resources/assets/hardscrabble/textures/item/obsidian_shard.png,material,Obsidian Shard,obsidian,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/obsidian_shovel.png,tool,Obsidian Shovel,obsidian,item/handheld,16x16,A,shape shovel
+src/main/resources/assets/hardscrabble/textures/item/onion.png,food,Onion,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ooze_ball.png,material,Ooze Ball,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/ooze_spawn_egg.png,misc,Ooze Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/orange.png,food,Orange,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/phase_spider_spawn_egg.png,misc,Phase Spider Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/porridge.png,food,Porridge,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/pudding_ball.png,material,Pudding Ball,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/pudding_spawn_egg.png,misc,Pudding Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/pumpkin_soup.png,food,Pumpkin Soup,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/quartz_shard.png,material,Quartz Shard,quartz,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/raw_adamantium.png,material,Raw Adamantium,adamantium,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/raw_mithril.png,material,Raw Mithril,mithril,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/raw_silver.png,material,Raw Silver,silver,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/revenant_spawn_egg.png,misc,Revenant Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_arrow.png,weapon,Rusted Iron Arrow,rusted_iron,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_boots.png,armor_item,Rusted Iron Boots,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_chainmail_boots.png,armor_item,Rusted Iron Chainmail Boots,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_chainmail_chestplate.png,armor_item,Rusted Iron Chainmail Chestplate,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_chainmail_helmet.png,armor_item,Rusted Iron Chainmail Helmet,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_chainmail_leggings.png,armor_item,Rusted Iron Chainmail Leggings,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_chestplate.png,armor_item,Rusted Iron Chestplate,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_dagger.png,weapon,Rusted Iron Dagger,rusted_iron,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_helmet.png,armor_item,Rusted Iron Helmet,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_leggings.png,armor_item,Rusted Iron Leggings,rusted_iron,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/rusted_iron_sword.png,weapon,Rusted Iron Sword,rusted_iron,item/handheld,16x16,A,shape sword
+src/main/resources/assets/hardscrabble/textures/item/salad.png,food,Salad,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/shadow_spawn_egg.png,misc,Shadow Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/silver_arrow.png,weapon,Silver Arrow,silver,item/generated,16x16,A,shape arrow
+src/main/resources/assets/hardscrabble/textures/item/silver_axe.png,tool,Silver Axe,silver,item/handheld,16x16,A,shape axe
+src/main/resources/assets/hardscrabble/textures/item/silver_battle_axe.png,weapon,Silver Battle Axe,silver,item/handheld,16x16,A,shape battle_axe
+src/main/resources/assets/hardscrabble/textures/item/silver_boots.png,armor_item,Silver Boots,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_bucket.png,tool,Silver Bucket,silver,item/generated,16x16,A,shape bucket
+src/main/resources/assets/hardscrabble/textures/item/silver_chain.png,material,Silver Chain,silver,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/silver_chainmail_boots.png,armor_item,Silver Chainmail Boots,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_chainmail_chestplate.png,armor_item,Silver Chainmail Chestplate,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_chainmail_helmet.png,armor_item,Silver Chainmail Helmet,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_chainmail_leggings.png,armor_item,Silver Chainmail Leggings,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_chestplate.png,armor_item,Silver Chestplate,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_coin.png,material,Silver Coin,silver,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/silver_dagger.png,weapon,Silver Dagger,silver,item/handheld,16x16,A,shape dagger
+src/main/resources/assets/hardscrabble/textures/item/silver_door.png,misc,Silver Door,silver,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/silver_fishing_rod.png,tool,Silver Fishing Rod,silver,item/handheld_rod,16x16,A,shape fishing_rod
+src/main/resources/assets/hardscrabble/textures/item/silver_fishing_rod_cast.png,tool,Silver Fishing Rod (cast),silver,item/handheld_rod,16x16,A,shape fishing_rod_cast
+src/main/resources/assets/hardscrabble/textures/item/silver_hatchet.png,tool,Silver Hatchet,silver,item/handheld,16x16,A,shape hatchet
+src/main/resources/assets/hardscrabble/textures/item/silver_helmet.png,armor_item,Silver Helmet,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_hoe.png,tool,Silver Hoe,silver,item/handheld,16x16,A,shape hoe
+src/main/resources/assets/hardscrabble/textures/item/silver_horse_armor.png,armor_item,Silver Horse Armor,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_ingot.png,material,Silver Ingot,silver,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/silver_lava_bucket.png,tool,Silver Lava Bucket,silver,item/generated,16x16,A,shape lava_bucket
+src/main/resources/assets/hardscrabble/textures/item/silver_leggings.png,armor_item,Silver Leggings,silver,item/generated,16x16,A,
+src/main/resources/assets/hardscrabble/textures/item/silver_mattock.png,tool,Silver Mattock,silver,item/handheld,16x16,A,shape mattock
+src/main/resources/assets/hardscrabble/textures/item/silver_milk_bucket.png,tool,Silver Milk Bucket,silver,item/generated,16x16,A,shape milk_bucket
+src/main/resources/assets/hardscrabble/textures/item/silver_nugget.png,material,Silver Nugget,silver,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/silver_pickaxe.png,tool,Silver Pickaxe,silver,item/handheld,16x16,A,shape pickaxe
+src/main/resources/assets/hardscrabble/textures/item/silver_scythe.png,tool,Silver Scythe,silver,item/handheld,16x16,A,shape scythe
+src/main/resources/assets/hardscrabble/textures/item/silver_shears.png,tool,Silver Shears,silver,item/handheld,16x16,A,shape shears
+src/main/resources/assets/hardscrabble/textures/item/silver_shovel.png,tool,Silver Shovel,silver,item/handheld,16x16,A,shape shovel
+src/main/resources/assets/hardscrabble/textures/item/silver_stone_bucket.png,tool,Silver Bucket of Stone,silver,item/generated,16x16,A,shape stone_bucket
+src/main/resources/assets/hardscrabble/textures/item/silver_sword.png,weapon,Silver Sword,silver,item/handheld,16x16,A,shape sword
+src/main/resources/assets/hardscrabble/textures/item/silver_war_hammer.png,weapon,Silver War Hammer,silver,item/handheld,16x16,A,shape war_hammer
+src/main/resources/assets/hardscrabble/textures/item/silver_water_bucket.png,tool,Silver Water Bucket,silver,item/generated,16x16,A,shape water_bucket
+src/main/resources/assets/hardscrabble/textures/item/sinew.png,material,Sinew,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/sorbet.png,food,Sorbet,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/vampire_bat_spawn_egg.png,misc,Vampire Bat Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/vegetable_soup.png,food,Vegetable Soup,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/water_bowl.png,food,Bowl of Water,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/wight_spawn_egg.png,misc,Wight Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/wood_spider_spawn_egg.png,misc,Wood Spider Spawn Egg,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/item/wooden_club.png,weapon,Wooden Club,wood,item/handheld,16x16,A,shape club
+src/main/resources/assets/hardscrabble/textures/item/wooden_cudgel.png,weapon,Wooden Cudgel,wood,item/handheld,16x16,A,shape cudgel
+src/main/resources/assets/hardscrabble/textures/item/worm.png,food,Worm,,item/generated,16x16,B,
+src/main/resources/assets/hardscrabble/textures/environment/celestial/moon_halo.png,environment,Moon Dog Halo,,celestials atlas (SkyRendererMixin),32x32,lot13,tools/pixelart/celestial.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/unknown.png,gui,Curse icon (unknown),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/equipment_decay.png,gui,Curse icon (equipment_decay),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_hold_breath.png,gui,Curse icon (cant_hold_breath),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_run.png,gui,Curse icon (cant_run),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_eat_animals.png,gui,Curse icon (cant_eat_animals),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_eat_plants.png,gui,Curse icon (cant_eat_plants),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_drink.png,gui,Curse icon (cant_drink),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/endermen_enemy.png,gui,Curse icon (endermen_enemy),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/clumsiness.png,gui,Curse icon (clumsiness),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/entanglement.png,gui,Curse icon (entanglement),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_wear_armor.png,gui,Curse icon (cant_wear_armor),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_open_chests.png,gui,Curse icon (cant_open_chests),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/cant_sleep.png,gui,Curse icon (cant_sleep),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/fear_of_spiders.png,gui,Curse icon (fear_of_spiders),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/fear_of_wolves.png,gui,Curse icon (fear_of_wolves),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/fear_of_creepers.png,gui,Curse icon (fear_of_creepers),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py
+src/main/resources/assets/hardscrabble/textures/gui/sprites/hud/curse/fear_of_undead.png,gui,Curse icon (fear_of_undead),,gui atlas (CurseHud),9x9,lotG,tools/pixelart/curse_icons.py

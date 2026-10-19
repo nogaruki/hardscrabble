@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:smelting",
+  "cookingtime": 200,
+  "experience": 40.0,
+  "group": "mithril_ingot",
+  "ingredient": "hardscrabble:raw_mithril",
+  "result": {
+    "id": "hardscrabble:mithril_ingot"
+  }
+}

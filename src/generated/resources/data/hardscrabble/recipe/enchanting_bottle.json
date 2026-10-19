@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:glass_bottle",
+    "minecraft:emerald"
+  ],
+  "result": {
+    "id": "hardscrabble:enchanting_bottle"
+  }
+}

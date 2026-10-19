@@ -1,0 +1,27 @@
+{
+  "anvil_cost": 1,
+  "description": {
+    "translate": "enchantment.hardscrabble.true_flight"
+  },
+  "effects": {
+    "hardscrabble:true_flight": {
+      "type": "minecraft:linear",
+      "base": 0.1,
+      "per_level_above_first": 0.1
+    }
+  },
+  "max_cost": {
+    "base": 51,
+    "per_level_above_first": 10
+  },
+  "max_level": 3,
+  "min_cost": {
+    "base": 1,
+    "per_level_above_first": 10
+  },
+  "slots": [
+    "mainhand"
+  ],
+  "supported_items": "#minecraft:enchantable/bow",
+  "weight": 10
+}

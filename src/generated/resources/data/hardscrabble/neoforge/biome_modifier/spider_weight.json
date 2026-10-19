@@ -1,0 +1,6 @@
+{
+  "type": "hardscrabble:spawn_weight",
+  "biomes": "#minecraft:is_overworld",
+  "entity_type": "minecraft:spider",
+  "weight": 80
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_bars_side",
+  "textures": {
+    "bars": "hardscrabble:block/silver_bars",
+    "edge": "hardscrabble:block/silver_bars"
+  }
+}

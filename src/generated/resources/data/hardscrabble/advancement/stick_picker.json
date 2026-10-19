@@ -1,0 +1,33 @@
+{
+  "parent": "hardscrabble:root",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:stick"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.stick_picker.description"
+    },
+    "icon": {
+      "id": "minecraft:stick"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.stick_picker.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

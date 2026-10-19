@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "adamantium_ingot",
+  "key": {
+    "#": "hardscrabble:adamantium_nugget"
+  },
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "result": {
+    "id": "hardscrabble:adamantium_ingot"
+  }
+}

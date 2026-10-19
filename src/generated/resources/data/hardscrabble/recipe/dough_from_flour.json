@@ -1,0 +1,10 @@
+{
+  "type": "hardscrabble:bowl_shapeless",
+  "ingredients": [
+    "hardscrabble:flour",
+    "hardscrabble:water_bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:dough"
+  }
+}

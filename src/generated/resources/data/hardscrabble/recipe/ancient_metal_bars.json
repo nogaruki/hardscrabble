@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": "hardscrabble:ancient_metal_ingot"
+  },
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "count": 16,
+    "id": "hardscrabble:ancient_metal_bars"
+  }
+}

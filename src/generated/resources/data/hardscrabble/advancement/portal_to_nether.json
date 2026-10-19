@@ -1,0 +1,30 @@
+{
+  "parent": "hardscrabble:portal",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "from": "hardscrabble:underworld",
+        "to": "minecraft:the_nether"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.portal_to_nether.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:netherrack"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.portal_to_nether.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

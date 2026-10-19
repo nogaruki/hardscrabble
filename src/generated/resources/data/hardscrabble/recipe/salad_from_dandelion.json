@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:dandelion",
+    "minecraft:dandelion",
+    "minecraft:dandelion",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:salad"
+  }
+}

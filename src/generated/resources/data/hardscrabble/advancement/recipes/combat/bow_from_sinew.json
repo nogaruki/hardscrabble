@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_sinew": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:sinew"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "hardscrabble:bow_from_sinew"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_sinew"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hardscrabble:bow_from_sinew"
+    ]
+  }
+}

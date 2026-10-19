@@ -1,0 +1,31 @@
+{
+  "parent": "hardscrabble:make_bread",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": "minecraft:cake"
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.bake_cake.description"
+    },
+    "icon": {
+      "id": "minecraft:cake"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.bake_cake.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

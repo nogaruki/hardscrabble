@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:mithril_coin"
+  ],
+  "result": {
+    "id": "hardscrabble:mithril_nugget"
+  }
+}

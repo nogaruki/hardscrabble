@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "I": "minecraft:copper_ingot"
+  },
+  "pattern": [
+    "III",
+    "I I",
+    "III"
+  ],
+  "result": {
+    "id": "hardscrabble:copper_strongbox"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:chocolate",
+    "hardscrabble:milk_bowl",
+    "minecraft:snowball"
+  ],
+  "result": {
+    "id": "hardscrabble:ice_cream"
+  }
+}

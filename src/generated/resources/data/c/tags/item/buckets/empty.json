@@ -1,0 +1,10 @@
+{
+  "values": [
+    "hardscrabble:copper_bucket",
+    "hardscrabble:silver_bucket",
+    "hardscrabble:gold_bucket",
+    "hardscrabble:ancient_metal_bucket",
+    "hardscrabble:mithril_bucket",
+    "hardscrabble:adamantium_bucket"
+  ]
+}

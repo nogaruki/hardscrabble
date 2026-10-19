@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "hardscrabble:item/adamantium_scythe"
+  }
+}

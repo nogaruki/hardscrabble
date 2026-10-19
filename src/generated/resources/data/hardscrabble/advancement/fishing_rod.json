@@ -1,0 +1,42 @@
+{
+  "parent": "hardscrabble:build_workbench",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hardscrabble:adamantium_fishing_rod",
+            "hardscrabble:ancient_metal_fishing_rod",
+            "hardscrabble:copper_fishing_rod",
+            "hardscrabble:flint_fishing_rod",
+            "hardscrabble:gold_fishing_rod",
+            "hardscrabble:iron_fishing_rod",
+            "hardscrabble:mithril_fishing_rod",
+            "hardscrabble:obsidian_fishing_rod",
+            "hardscrabble:silver_fishing_rod",
+            "minecraft:fishing_rod"
+          ]
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.fishing_rod.description"
+    },
+    "icon": {
+      "id": "minecraft:fishing_rod"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.fishing_rod.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,15 @@
+{
+  "gives": {
+    "components": {
+      "hardscrabble:quality": "poor"
+    },
+    "id": "minecraft:iron_shovel"
+  },
+  "max_uses": 3,
+  "reputation_discount": 0.2,
+  "wants": {
+    "count": 2,
+    "id": "minecraft:emerald"
+  },
+  "xp": 10
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_top_left",
+  "textures": {
+    "bottom": "hardscrabble:block/ancient_metal_door_bottom",
+    "top": "hardscrabble:block/ancient_metal_door_top"
+  }
+}

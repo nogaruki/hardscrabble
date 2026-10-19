@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:copper_coin"
+  ],
+  "result": {
+    "id": "minecraft:copper_nugget"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard",
+    "hardscrabble:emerald_shard"
+  ],
+  "result": {
+    "id": "minecraft:emerald"
+  }
+}

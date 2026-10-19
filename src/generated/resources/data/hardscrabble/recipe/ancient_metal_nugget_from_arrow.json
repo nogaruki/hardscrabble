@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:ancient_metal_arrow"
+  ],
+  "result": {
+    "id": "hardscrabble:ancient_metal_nugget"
+  }
+}

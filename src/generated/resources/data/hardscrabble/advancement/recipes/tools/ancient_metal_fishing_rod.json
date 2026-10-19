@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_hook": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:ancient_metal_nugget"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "hardscrabble:ancient_metal_fishing_rod"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_hook"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hardscrabble:ancient_metal_fishing_rod"
+    ]
+  }
+}

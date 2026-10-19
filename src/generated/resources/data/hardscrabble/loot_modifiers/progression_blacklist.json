@@ -1,0 +1,5 @@
+{
+  "type": "hardscrabble:remove_item",
+  "enchantments": "hardscrabble:unobtainable",
+  "items": "hardscrabble:loot_blacklist"
+}

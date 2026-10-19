@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:bookshelves",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "event": "enlightenment"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.enlightenment.description"
+    },
+    "icon": {
+      "id": "minecraft:written_book"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.enlightenment.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

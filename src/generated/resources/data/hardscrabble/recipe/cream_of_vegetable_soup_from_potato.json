@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:potato",
+    "minecraft:carrot",
+    "hardscrabble:onion",
+    "hardscrabble:milk_bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:cream_of_vegetable_soup"
+  }
+}

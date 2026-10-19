@@ -1,0 +1,10 @@
+{
+  "values": [
+    "#c:ores/iron",
+    "#c:ores/copper",
+    "#c:ores/gold",
+    "#c:ores/silver",
+    "#c:ores/mithril",
+    "#c:ores/adamantium"
+  ]
+}

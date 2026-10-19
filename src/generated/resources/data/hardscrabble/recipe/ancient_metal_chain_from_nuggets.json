@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "N": "hardscrabble:ancient_metal_nugget"
+  },
+  "pattern": [
+    " N ",
+    "N N",
+    " N "
+  ],
+  "result": {
+    "id": "hardscrabble:ancient_metal_chain"
+  }
+}

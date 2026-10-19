@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "hardscrabble:obsidian_arrow"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    },
+    "has_tip": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:obsidian_shard"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_tip"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hardscrabble:obsidian_arrow"
+    ]
+  }
+}

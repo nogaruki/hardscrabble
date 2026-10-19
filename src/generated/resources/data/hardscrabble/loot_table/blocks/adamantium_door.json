@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "condition": {
+            "type": "minecraft:match_block",
+            "blocks": "hardscrabble:adamantium_door",
+            "state": {
+              "half": "lower"
+            }
+          },
+          "name": "hardscrabble:adamantium_door"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "hardscrabble:blocks/adamantium_door"
+}

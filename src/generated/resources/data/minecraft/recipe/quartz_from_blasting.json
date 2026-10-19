@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "cookingtime": 100,
+  "experience": 10.0,
+  "ingredient": "minecraft:nether_quartz_ore",
+  "result": {
+    "id": "minecraft:quartz"
+  }
+}

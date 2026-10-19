@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/template_bars_cap",
+  "textures": {
+    "bars": "hardscrabble:block/ancient_metal_bars",
+    "edge": "hardscrabble:block/ancient_metal_bars"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "minecraft:snowy_taiga",
+  "spawners": {
+    "type": "hardscrabble:dire_wolf",
+    "count": {
+      "type": "minecraft:uniform",
+      "max_inclusive": 4,
+      "min_inclusive": 2
+    },
+    "weight": 10
+  }
+}

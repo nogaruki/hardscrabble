@@ -1,0 +1,14 @@
+{
+  "gives": {
+    "components": {
+      "hardscrabble:quality": "poor"
+    },
+    "id": "hardscrabble:copper_chainmail_boots"
+  },
+  "max_uses": 12,
+  "reputation_discount": 0.2,
+  "wants": {
+    "id": "minecraft:emerald"
+  },
+  "xp": 5
+}

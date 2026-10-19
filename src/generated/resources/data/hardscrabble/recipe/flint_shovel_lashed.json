@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "L": "#hardscrabble:lashings",
+    "X": "minecraft:flint"
+  },
+  "pattern": [
+    "XL",
+    "# ",
+    "# "
+  ],
+  "result": {
+    "id": "hardscrabble:flint_shovel"
+  }
+}

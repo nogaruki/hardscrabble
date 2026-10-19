@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:potato",
+    "minecraft:carrot",
+    "hardscrabble:onion",
+    "hardscrabble:water_bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:vegetable_soup"
+  }
+}

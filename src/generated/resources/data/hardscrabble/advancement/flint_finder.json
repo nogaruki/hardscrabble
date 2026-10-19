@@ -1,0 +1,33 @@
+{
+  "parent": "hardscrabble:stick_picker",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:flint"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.flint_finder.description"
+    },
+    "icon": {
+      "id": "minecraft:flint"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.flint_finder.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

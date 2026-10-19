@@ -1,0 +1,14 @@
+{
+  "values": {
+    "hardscrabble:adamantium_lava_bucket": 3,
+    "hardscrabble:ancient_metal_lava_bucket": 3,
+    "hardscrabble:copper_lava_bucket": 3,
+    "hardscrabble:gold_lava_bucket": 3,
+    "hardscrabble:mithril_lava_bucket": 3,
+    "hardscrabble:silver_lava_bucket": 3,
+    "minecraft:blaze_rod": 4,
+    "minecraft:coal": 2,
+    "minecraft:coal_block": 2,
+    "minecraft:lava_bucket": 3
+  }
+}

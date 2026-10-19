@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "hardscrabble:block/large_clay_furnace_front_on",
+    "side": "hardscrabble:block/large_clay_furnace_side",
+    "top": "hardscrabble:block/large_clay_furnace_top"
+  }
+}

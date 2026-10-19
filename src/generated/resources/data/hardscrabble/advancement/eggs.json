@@ -1,0 +1,33 @@
+{
+  "parent": "hardscrabble:root",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:eggs"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.eggs.description"
+    },
+    "icon": {
+      "id": "minecraft:egg"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.eggs.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

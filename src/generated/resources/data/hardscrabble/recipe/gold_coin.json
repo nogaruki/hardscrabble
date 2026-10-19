@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:gold_nugget"
+  ],
+  "result": {
+    "id": "hardscrabble:gold_coin"
+  }
+}

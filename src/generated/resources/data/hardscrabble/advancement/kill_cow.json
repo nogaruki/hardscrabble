@@ -1,0 +1,35 @@
+{
+  "parent": "hardscrabble:build_axe",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "entity": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:entity_type": "minecraft:cow"
+          }
+        }
+      },
+      "trigger": "minecraft:player_killed_entity"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.kill_cow.description"
+    },
+    "icon": {
+      "id": "minecraft:beef"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.kill_cow.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

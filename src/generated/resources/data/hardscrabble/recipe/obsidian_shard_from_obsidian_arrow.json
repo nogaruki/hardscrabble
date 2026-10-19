@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:obsidian_arrow"
+  ],
+  "result": {
+    "id": "hardscrabble:obsidian_shard"
+  }
+}

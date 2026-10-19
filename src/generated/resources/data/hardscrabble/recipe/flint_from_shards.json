@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:flint_shard",
+    "hardscrabble:flint_shard",
+    "hardscrabble:flint_shard",
+    "hardscrabble:flint_shard"
+  ],
+  "result": {
+    "id": "minecraft:flint"
+  }
+}

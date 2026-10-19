@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard",
+    "hardscrabble:diamond_shard"
+  ],
+  "result": {
+    "id": "minecraft:diamond"
+  }
+}

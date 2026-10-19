@@ -1,0 +1,31 @@
+{
+  "parent": "hardscrabble:mine_wood",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": "hardscrabble:wooden_cudgel"
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.build_club.description"
+    },
+    "icon": {
+      "id": "hardscrabble:wooden_cudgel"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.build_club.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

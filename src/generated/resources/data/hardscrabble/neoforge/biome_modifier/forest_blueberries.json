@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_forest",
+  "features": "minecraft:patch_berry_rare",
+  "step": "vegetal_decoration"
+}

@@ -1,0 +1,11 @@
+# ET-Q-07: identifiers that must never appear in the repository (whole words, case sensitive).
+# MITE class names cited by the specs, then the 1.6.4 obfuscated class names quoted in analysis/06.
+MITEConstant
+RecipesMITE
+MITEContainerCrafting
+aau
+aaw
+abw
+acu
+afq
+asg

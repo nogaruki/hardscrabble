@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "mithril_nugget",
+  "ingredients": [
+    "hardscrabble:mithril_ingot"
+  ],
+  "result": {
+    "count": 9,
+    "id": "hardscrabble:mithril_nugget"
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:recipes/root",
+  "criteria": {
+    "has_bench": {
+      "conditions": {
+        "items": [
+          {
+            "items": "hardscrabble:obsidian_workbench"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    },
+    "has_the_recipe": {
+      "conditions": {
+        "recipes": "hardscrabble:obsidian_knife_from_obsidian_workbench"
+      },
+      "trigger": "minecraft:recipe_unlocked"
+    }
+  },
+  "requirements": [
+    [
+      "has_the_recipe",
+      "has_bench"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "hardscrabble:obsidian_knife_from_obsidian_workbench"
+    ]
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "hardscrabble:item/hoary_silverfish_spawn_egg"
+  }
+}

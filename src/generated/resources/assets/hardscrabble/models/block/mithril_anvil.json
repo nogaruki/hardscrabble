@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_anvil",
+  "textures": {
+    "body": "hardscrabble:block/mithril_anvil",
+    "particle": "hardscrabble:block/mithril_anvil",
+    "top": "hardscrabble:block/mithril_anvil_top"
+  }
+}

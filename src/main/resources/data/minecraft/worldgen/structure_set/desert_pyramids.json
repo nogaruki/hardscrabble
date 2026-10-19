@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "hardscrabble:gated_spread",
+    "salt": 14357617,
+    "separation": 16,
+    "spacing": 64
+  },
+  "structures": [
+    {
+      "structure": "minecraft:desert_pyramid",
+      "weight": 1
+    }
+  ]
+}

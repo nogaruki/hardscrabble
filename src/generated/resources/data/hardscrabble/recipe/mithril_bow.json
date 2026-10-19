@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "/": "minecraft:stick",
+    "I": "hardscrabble:mithril_ingot",
+    "S": [
+      "minecraft:string",
+      "hardscrabble:sinew"
+    ]
+  },
+  "pattern": [
+    "I/S",
+    "/ S",
+    "I/S"
+  ],
+  "result": {
+    "id": "hardscrabble:mithril_bow"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "X": "hardscrabble:mithril_ingot"
+  },
+  "pattern": [
+    "XXX",
+    "XXX"
+  ],
+  "result": {
+    "count": 16,
+    "id": "hardscrabble:mithril_bars"
+  }
+}

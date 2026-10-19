@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "front": "hardscrabble:block/obsidian_furnace_front_on",
+    "side": "hardscrabble:block/obsidian_furnace_side",
+    "top": "hardscrabble:block/obsidian_furnace_top"
+  }
+}

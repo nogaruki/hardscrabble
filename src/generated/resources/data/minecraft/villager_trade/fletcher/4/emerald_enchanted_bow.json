@@ -1,0 +1,15 @@
+{
+  "gives": {
+    "components": {
+      "hardscrabble:quality": "poor"
+    },
+    "id": "minecraft:bow"
+  },
+  "max_uses": 3,
+  "reputation_discount": 0.05,
+  "wants": {
+    "count": 2,
+    "id": "minecraft:emerald"
+  },
+  "xp": 15
+}

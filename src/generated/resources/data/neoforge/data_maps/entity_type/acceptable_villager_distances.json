@@ -1,0 +1,67 @@
+{
+  "values": {
+    "hardscrabble:blob": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:blob"
+        }
+      ],
+      "acceptable_villager_distance": 8.0
+    },
+    "hardscrabble:clay_golem": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:clay_golem"
+        }
+      ],
+      "acceptable_villager_distance": 10.0
+    },
+    "hardscrabble:earth_elemental": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:earth_elemental"
+        }
+      ],
+      "acceptable_villager_distance": 10.0
+    },
+    "hardscrabble:jelly": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:jelly"
+        }
+      ],
+      "acceptable_villager_distance": 8.0
+    },
+    "hardscrabble:ooze": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:ooze"
+        }
+      ],
+      "acceptable_villager_distance": 8.0
+    },
+    "hardscrabble:pudding": {
+      "neoforge:conditions": [
+        {
+          "type": "neoforge:registered",
+          "registry": "minecraft:entity_type",
+          "value": "hardscrabble:pudding"
+        }
+      ],
+      "acceptable_villager_distance": 8.0
+    },
+    "minecraft:slime": {
+      "acceptable_villager_distance": 8.0
+    }
+  }
+}

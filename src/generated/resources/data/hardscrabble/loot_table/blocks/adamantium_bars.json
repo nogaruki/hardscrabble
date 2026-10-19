@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "hardscrabble:adamantium_bars"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "hardscrabble:blocks/adamantium_bars"
+}

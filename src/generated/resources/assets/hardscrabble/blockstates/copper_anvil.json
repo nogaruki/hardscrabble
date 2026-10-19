@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "hardscrabble:block/copper_anvil",
+      "y": 270
+    },
+    "facing=north": {
+      "model": "hardscrabble:block/copper_anvil",
+      "y": 180
+    },
+    "facing=south": {
+      "model": "hardscrabble:block/copper_anvil"
+    },
+    "facing=west": {
+      "model": "hardscrabble:block/copper_anvil",
+      "y": 90
+    }
+  }
+}

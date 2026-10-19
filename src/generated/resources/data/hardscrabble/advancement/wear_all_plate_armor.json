@@ -1,0 +1,84 @@
+{
+  "parent": "hardscrabble:build_chain_mail",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:equipment": {
+              "chest": {
+                "items": [
+                  "hardscrabble:adamantium_chestplate",
+                  "hardscrabble:ancient_metal_chestplate",
+                  "minecraft:copper_chestplate",
+                  "minecraft:golden_chestplate",
+                  "minecraft:iron_chestplate",
+                  "hardscrabble:mithril_chestplate",
+                  "hardscrabble:rusted_iron_chestplate",
+                  "hardscrabble:silver_chestplate"
+                ]
+              },
+              "feet": {
+                "items": [
+                  "hardscrabble:adamantium_boots",
+                  "hardscrabble:ancient_metal_boots",
+                  "minecraft:copper_boots",
+                  "minecraft:golden_boots",
+                  "minecraft:iron_boots",
+                  "hardscrabble:mithril_boots",
+                  "hardscrabble:rusted_iron_boots",
+                  "hardscrabble:silver_boots"
+                ]
+              },
+              "head": {
+                "items": [
+                  "hardscrabble:adamantium_helmet",
+                  "hardscrabble:ancient_metal_helmet",
+                  "minecraft:copper_helmet",
+                  "minecraft:golden_helmet",
+                  "minecraft:iron_helmet",
+                  "hardscrabble:mithril_helmet",
+                  "hardscrabble:rusted_iron_helmet",
+                  "hardscrabble:silver_helmet"
+                ]
+              },
+              "legs": {
+                "items": [
+                  "hardscrabble:adamantium_leggings",
+                  "hardscrabble:ancient_metal_leggings",
+                  "minecraft:copper_leggings",
+                  "minecraft:golden_leggings",
+                  "minecraft:iron_leggings",
+                  "hardscrabble:mithril_leggings",
+                  "hardscrabble:rusted_iron_leggings",
+                  "hardscrabble:silver_leggings"
+                ]
+              }
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.wear_all_plate_armor.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:iron_chestplate"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.wear_all_plate_armor.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

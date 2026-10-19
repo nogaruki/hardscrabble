@@ -1,0 +1,20 @@
+{
+  "values": [
+    "hardscrabble:adamantium_axe",
+    "hardscrabble:adamantium_battle_axe",
+    "hardscrabble:ancient_metal_axe",
+    "hardscrabble:ancient_metal_battle_axe",
+    "hardscrabble:copper_battle_axe",
+    "hardscrabble:flint_axe",
+    "hardscrabble:golden_battle_axe",
+    "hardscrabble:iron_battle_axe",
+    "hardscrabble:mithril_axe",
+    "hardscrabble:mithril_battle_axe",
+    "hardscrabble:obsidian_axe",
+    "hardscrabble:silver_axe",
+    "hardscrabble:silver_battle_axe",
+    "minecraft:copper_axe",
+    "minecraft:golden_axe",
+    "minecraft:iron_axe"
+  ]
+}

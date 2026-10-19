@@ -1,0 +1,39 @@
+{
+  "parent": "hardscrabble:nuggets",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hardscrabble:adamantium_workbench",
+            "hardscrabble:ancient_metal_workbench",
+            "hardscrabble:copper_workbench",
+            "hardscrabble:gold_workbench",
+            "hardscrabble:iron_workbench",
+            "hardscrabble:mithril_workbench",
+            "hardscrabble:silver_workbench"
+          ]
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.better_tools.description"
+    },
+    "icon": {
+      "id": "hardscrabble:copper_workbench"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.better_tools.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

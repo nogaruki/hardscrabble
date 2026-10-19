@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "L": "#hardscrabble:lashings",
+    "X": "hardscrabble:obsidian_shard"
+  },
+  "pattern": [
+    "X#",
+    "L#"
+  ],
+  "result": {
+    "id": "hardscrabble:obsidian_hatchet"
+  }
+}

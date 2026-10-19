@@ -1,0 +1,19 @@
+{
+  "values": [
+    "minecraft:zombie",
+    "minecraft:husk",
+    "minecraft:zombie_villager",
+    {
+      "id": "hardscrabble:ghoul",
+      "required": false
+    },
+    {
+      "id": "hardscrabble:revenant",
+      "required": false
+    },
+    {
+      "id": "hardscrabble:earth_elemental",
+      "required": false
+    }
+  ]
+}

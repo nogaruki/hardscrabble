@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:adamantium_arrow"
+  ],
+  "result": {
+    "id": "hardscrabble:adamantium_nugget"
+  }
+}

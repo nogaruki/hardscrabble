@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "ingredient": "hardscrabble:worm",
+  "result": {
+    "id": "hardscrabble:cooked_worm"
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "modifier": {
+            "type": "minecraft:copy_state",
+            "block": "hardscrabble:ancient_metal_anvil",
+            "properties": [
+              "damage"
+            ]
+          },
+          "name": "hardscrabble:ancient_metal_anvil"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "hardscrabble:blocks/ancient_metal_anvil"
+}

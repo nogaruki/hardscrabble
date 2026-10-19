@@ -1,0 +1,32 @@
+{
+  "values": {
+    "hardscrabble:adamantium_block": "adamantium",
+    "hardscrabble:adamantium_chain": "adamantium",
+    "hardscrabble:adamantium_ingot": "adamantium",
+    "hardscrabble:adamantium_nugget": "adamantium",
+    "hardscrabble:ancient_metal_block": "ancient_metal",
+    "hardscrabble:ancient_metal_chain": "ancient_metal",
+    "hardscrabble:ancient_metal_ingot": "ancient_metal",
+    "hardscrabble:ancient_metal_nugget": "ancient_metal",
+    "hardscrabble:golden_chain": "gold",
+    "hardscrabble:mithril_block": "mithril",
+    "hardscrabble:mithril_chain": "mithril",
+    "hardscrabble:mithril_ingot": "mithril",
+    "hardscrabble:mithril_nugget": "mithril",
+    "hardscrabble:silver_block": "silver",
+    "hardscrabble:silver_chain": "silver",
+    "hardscrabble:silver_ingot": "silver",
+    "hardscrabble:silver_nugget": "silver",
+    "minecraft:copper_block": "copper",
+    "minecraft:copper_chain": "copper",
+    "minecraft:copper_ingot": "copper",
+    "minecraft:copper_nugget": "copper",
+    "minecraft:gold_block": "gold",
+    "minecraft:gold_ingot": "gold",
+    "minecraft:gold_nugget": "gold",
+    "minecraft:iron_block": "iron",
+    "minecraft:iron_chain": "iron",
+    "minecraft:iron_ingot": "iron",
+    "minecraft:iron_nugget": "iron"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "B": "#c:storage_blocks/adamantium",
+    "I": "hardscrabble:adamantium_ingot"
+  },
+  "pattern": [
+    "BBB",
+    " I ",
+    "III"
+  ],
+  "result": {
+    "id": "hardscrabble:adamantium_anvil"
+  }
+}

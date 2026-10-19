@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:root",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "event": "explorer"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.explorer.description"
+    },
+    "frame": "challenge",
+    "icon": {
+      "id": "minecraft:compass"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.explorer.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:fine_dining",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "event": "supersize_me"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.supersize_me.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:cooked_beef"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.supersize_me.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

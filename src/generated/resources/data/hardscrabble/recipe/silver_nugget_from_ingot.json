@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "silver_nugget",
+  "ingredients": [
+    "hardscrabble:silver_ingot"
+  ],
+  "result": {
+    "count": 9,
+    "id": "hardscrabble:silver_nugget"
+  }
+}

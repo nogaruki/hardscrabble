@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "hardscrabble:block/mithril_door_bottom",
+    "top": "hardscrabble:block/mithril_door_top"
+  }
+}

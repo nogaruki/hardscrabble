@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/template_anvil",
+  "textures": {
+    "body": "hardscrabble:block/ancient_metal_anvil",
+    "particle": "hardscrabble:block/ancient_metal_anvil",
+    "top": "hardscrabble:block/ancient_metal_anvil_top"
+  }
+}

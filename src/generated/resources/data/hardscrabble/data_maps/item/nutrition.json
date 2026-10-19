@@ -1,0 +1,353 @@
+{
+  "values": {
+    "hardscrabble:banana": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 2,
+      "sugar": 1000
+    },
+    "hardscrabble:beef_stew": {
+      "nutrition": 16,
+      "phyto": true,
+      "protein": true,
+      "satiety": 16
+    },
+    "hardscrabble:cereal": {
+      "nutrition": 2,
+      "protein": true,
+      "satiety": 4,
+      "sugar": 1000
+    },
+    "hardscrabble:cheese": {
+      "nutrition": 3,
+      "protein": true,
+      "satiety": 3
+    },
+    "hardscrabble:chicken_soup": {
+      "nutrition": 10,
+      "phyto": true,
+      "protein": true,
+      "satiety": 10
+    },
+    "hardscrabble:chocolate": {
+      "nutrition": 3,
+      "satiety": 3,
+      "sugar": 1000
+    },
+    "hardscrabble:cooked_worm": {
+      "nutrition": 1,
+      "satiety": 1
+    },
+    "hardscrabble:cream_of_mushroom_soup": {
+      "nutrition": 5,
+      "protein": true,
+      "satiety": 3
+    },
+    "hardscrabble:cream_of_vegetable_soup": {
+      "nutrition": 7,
+      "phyto": true,
+      "protein": true,
+      "satiety": 7
+    },
+    "hardscrabble:dough": {
+      "nutrition": 2,
+      "satiety": 6
+    },
+    "hardscrabble:ice_cream": {
+      "nutrition": 4,
+      "protein": true,
+      "satiety": 5,
+      "sugar": 1000
+    },
+    "hardscrabble:mashed_potatoes": {
+      "nutrition": 8,
+      "protein": true,
+      "satiety": 12
+    },
+    "hardscrabble:milk_bowl": {
+      "nutrition": 1,
+      "protein": true,
+      "satiety": 0
+    },
+    "hardscrabble:onion": {
+      "nutrition": 1,
+      "satiety": 1
+    },
+    "hardscrabble:orange": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 2,
+      "sugar": 1000
+    },
+    "hardscrabble:porridge": {
+      "nutrition": 2,
+      "phyto": true,
+      "satiety": 4,
+      "sugar": 2000
+    },
+    "hardscrabble:pumpkin_soup": {
+      "nutrition": 2,
+      "phyto": true,
+      "satiety": 1
+    },
+    "hardscrabble:salad": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 1
+    },
+    "hardscrabble:sorbet": {
+      "nutrition": 2,
+      "phyto": true,
+      "satiety": 4,
+      "sugar": 2000
+    },
+    "hardscrabble:vegetable_soup": {
+      "nutrition": 6,
+      "phyto": true,
+      "satiety": 6
+    },
+    "hardscrabble:worm": {
+      "nutrition": 1,
+      "satiety": 0
+    },
+    "minecraft:apple": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 2,
+      "sugar": 1000
+    },
+    "minecraft:baked_potato": {
+      "nutrition": 2,
+      "satiety": 6
+    },
+    "minecraft:beef": {
+      "nutrition": 5,
+      "protein": true,
+      "satiety": 5
+    },
+    "minecraft:beetroot": {
+      "nutrition": 2,
+      "phyto": true,
+      "satiety": 1
+    },
+    "minecraft:beetroot_soup": {
+      "nutrition": 6,
+      "phyto": true,
+      "satiety": 6
+    },
+    "minecraft:bread": {
+      "nutrition": 2,
+      "satiety": 8
+    },
+    "minecraft:carrot": {
+      "nutrition": 2,
+      "satiety": 1
+    },
+    "minecraft:chicken": {
+      "nutrition": 3,
+      "protein": true,
+      "satiety": 3
+    },
+    "minecraft:chorus_fruit": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 2,
+      "sugar": 1000
+    },
+    "minecraft:cod": {
+      "nutrition": 3,
+      "protein": true,
+      "satiety": 3
+    },
+    "minecraft:cod_bucket": {
+      "nutrition": 3,
+      "protein": true,
+      "satiety": 3
+    },
+    "minecraft:cooked_beef": {
+      "nutrition": 10,
+      "protein": true,
+      "satiety": 10
+    },
+    "minecraft:cooked_chicken": {
+      "nutrition": 6,
+      "protein": true,
+      "satiety": 6
+    },
+    "minecraft:cooked_cod": {
+      "nutrition": 6,
+      "protein": true,
+      "satiety": 6
+    },
+    "minecraft:cooked_mutton": {
+      "nutrition": 6,
+      "protein": true,
+      "satiety": 6
+    },
+    "minecraft:cooked_porkchop": {
+      "nutrition": 8,
+      "protein": true,
+      "satiety": 8
+    },
+    "minecraft:cooked_rabbit": {
+      "nutrition": 6,
+      "protein": true,
+      "satiety": 6
+    },
+    "minecraft:cooked_salmon": {
+      "nutrition": 10,
+      "protein": true,
+      "satiety": 10
+    },
+    "minecraft:cookie": {
+      "nutrition": 1,
+      "satiety": 3,
+      "sugar": 250
+    },
+    "minecraft:dried_kelp": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 1
+    },
+    "minecraft:enchanted_golden_apple": {
+      "nutrition": 1,
+      "satiety": 2
+    },
+    "minecraft:glow_berries": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 1,
+      "sugar": 1000
+    },
+    "minecraft:golden_apple": {
+      "nutrition": 1,
+      "satiety": 2
+    },
+    "minecraft:golden_carrot": {
+      "nutrition": 2,
+      "phyto": true,
+      "satiety": 1
+    },
+    "minecraft:honey_bottle": {
+      "nutrition": 1,
+      "satiety": 3,
+      "sugar": 2000
+    },
+    "minecraft:melon_seeds": {
+      "nutrition": 1,
+      "satiety": 1
+    },
+    "minecraft:melon_slice": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 1,
+      "sugar": 1000
+    },
+    "minecraft:mushroom_stew": {
+      "nutrition": 4,
+      "satiety": 2
+    },
+    "minecraft:mutton": {
+      "nutrition": 3,
+      "protein": true,
+      "satiety": 3
+    },
+    "minecraft:nether_wart": {
+      "nutrition": 1,
+      "satiety": 1
+    },
+    "minecraft:poisonous_potato": {
+      "nutrition": 0,
+      "satiety": 2
+    },
+    "minecraft:porkchop": {
+      "nutrition": 4,
+      "protein": true,
+      "satiety": 4
+    },
+    "minecraft:potato": {
+      "nutrition": 1,
+      "satiety": 3
+    },
+    "minecraft:pufferfish": {
+      "nutrition": 1,
+      "protein": true,
+      "satiety": 1
+    },
+    "minecraft:pufferfish_bucket": {
+      "nutrition": 1,
+      "protein": true,
+      "satiety": 1
+    },
+    "minecraft:pumpkin_pie": {
+      "nutrition": 6,
+      "phyto": true,
+      "protein": true,
+      "satiety": 10,
+      "sugar": 1000
+    },
+    "minecraft:pumpkin_seeds": {
+      "nutrition": 2,
+      "satiety": 1
+    },
+    "minecraft:rabbit": {
+      "nutrition": 3,
+      "protein": true,
+      "satiety": 3
+    },
+    "minecraft:rabbit_stew": {
+      "nutrition": 10,
+      "phyto": true,
+      "protein": true,
+      "satiety": 10
+    },
+    "minecraft:rotten_flesh": {
+      "nutrition": 1,
+      "satiety": 2
+    },
+    "minecraft:salmon": {
+      "nutrition": 5,
+      "protein": true,
+      "satiety": 5
+    },
+    "minecraft:salmon_bucket": {
+      "nutrition": 5,
+      "protein": true,
+      "satiety": 5
+    },
+    "minecraft:spider_eye": {
+      "nutrition": 1,
+      "protein": true,
+      "satiety": 0
+    },
+    "minecraft:sugar": {
+      "nutrition": 0,
+      "satiety": 1,
+      "sugar": 1000
+    },
+    "minecraft:suspicious_stew": {
+      "nutrition": 4,
+      "satiety": 2
+    },
+    "minecraft:sweet_berries": {
+      "nutrition": 1,
+      "phyto": true,
+      "satiety": 1,
+      "sugar": 1000
+    },
+    "minecraft:tropical_fish": {
+      "nutrition": 1,
+      "protein": true,
+      "satiety": 1
+    },
+    "minecraft:tropical_fish_bucket": {
+      "nutrition": 1,
+      "protein": true,
+      "satiety": 1
+    },
+    "minecraft:wheat_seeds": {
+      "nutrition": 0,
+      "satiety": 1
+    }
+  }
+}

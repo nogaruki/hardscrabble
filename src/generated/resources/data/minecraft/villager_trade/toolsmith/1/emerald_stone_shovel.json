@@ -1,0 +1,13 @@
+{
+  "gives": {
+    "components": {
+      "hardscrabble:quality": "poor"
+    },
+    "id": "minecraft:copper_shovel"
+  },
+  "max_uses": 12,
+  "reputation_discount": 0.2,
+  "wants": {
+    "id": "minecraft:emerald"
+  }
+}

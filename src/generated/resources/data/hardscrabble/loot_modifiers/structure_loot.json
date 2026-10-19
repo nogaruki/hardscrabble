@@ -1,0 +1,181 @@
+{
+  "type": "hardscrabble:replace_item",
+  "condition": {
+    "type": "minecraft:inverted",
+    "term": {
+      "type": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/simple_dungeon"
+    }
+  },
+  "rules": [
+    {
+      "from": [
+        "minecraft:iron_ingot"
+      ],
+      "max": 3,
+      "min": 1,
+      "to": "minecraft:iron_nugget"
+    },
+    {
+      "from": [
+        "minecraft:iron_block"
+      ],
+      "max": 9,
+      "min": 4,
+      "to": "minecraft:iron_nugget"
+    },
+    {
+      "from": [
+        "minecraft:iron_pickaxe",
+        "minecraft:iron_axe",
+        "minecraft:iron_shovel",
+        "minecraft:iron_sword",
+        "minecraft:iron_hoe",
+        "minecraft:iron_spear",
+        "minecraft:iron_helmet",
+        "minecraft:iron_chestplate",
+        "minecraft:iron_leggings",
+        "minecraft:iron_boots",
+        "minecraft:iron_horse_armor",
+        "minecraft:iron_nautilus_armor"
+      ],
+      "max": 4,
+      "min": 1,
+      "to": "minecraft:iron_nugget"
+    },
+    {
+      "from": [
+        "minecraft:gold_ingot"
+      ],
+      "max": 3,
+      "min": 1,
+      "to": "minecraft:gold_nugget"
+    },
+    {
+      "from": [
+        "minecraft:gold_block"
+      ],
+      "max": 9,
+      "min": 4,
+      "to": "minecraft:gold_nugget"
+    },
+    {
+      "from": [
+        "minecraft:golden_pickaxe",
+        "minecraft:golden_axe",
+        "minecraft:golden_shovel",
+        "minecraft:golden_sword",
+        "minecraft:golden_hoe",
+        "minecraft:golden_spear",
+        "minecraft:golden_helmet",
+        "minecraft:golden_chestplate",
+        "minecraft:golden_leggings",
+        "minecraft:golden_boots",
+        "minecraft:golden_horse_armor",
+        "minecraft:golden_nautilus_armor"
+      ],
+      "max": 4,
+      "min": 1,
+      "to": "minecraft:gold_nugget"
+    },
+    {
+      "from": [
+        "minecraft:diamond"
+      ],
+      "max": 2,
+      "min": 1,
+      "to": "hardscrabble:diamond_shard"
+    },
+    {
+      "from": [
+        "minecraft:diamond_block"
+      ],
+      "max": 4,
+      "min": 2,
+      "to": "hardscrabble:diamond_shard"
+    },
+    {
+      "from": [
+        "minecraft:iron_nugget"
+      ],
+      "max": 3,
+      "min": 1,
+      "to": "minecraft:iron_nugget"
+    },
+    {
+      "from": [
+        "minecraft:gold_nugget"
+      ],
+      "max": 3,
+      "min": 1,
+      "to": "minecraft:gold_nugget"
+    },
+    {
+      "from": [
+        "minecraft:copper_ingot"
+      ],
+      "max": 3,
+      "min": 1,
+      "to": "minecraft:copper_nugget"
+    },
+    {
+      "from": [
+        "minecraft:copper_pickaxe",
+        "minecraft:copper_axe",
+        "minecraft:copper_shovel",
+        "minecraft:copper_sword",
+        "minecraft:copper_hoe",
+        "minecraft:copper_spear",
+        "minecraft:copper_helmet",
+        "minecraft:copper_chestplate",
+        "minecraft:copper_leggings",
+        "minecraft:copper_boots",
+        "minecraft:copper_horse_armor",
+        "minecraft:copper_nautilus_armor"
+      ],
+      "max": 4,
+      "min": 1,
+      "to": "minecraft:copper_nugget"
+    },
+    {
+      "from": [
+        "minecraft:shears",
+        "minecraft:bucket"
+      ],
+      "max": 4,
+      "min": 1,
+      "to": "minecraft:iron_nugget"
+    },
+    {
+      "from": [
+        "minecraft:emerald"
+      ],
+      "max": 1,
+      "min": 1,
+      "to": "minecraft:emerald"
+    },
+    {
+      "from": [
+        "minecraft:emerald_block"
+      ],
+      "max": 2,
+      "min": 1,
+      "to": "minecraft:emerald"
+    },
+    {
+      "from": [
+        "minecraft:crossbow",
+        "minecraft:shield"
+      ],
+      "max": 4,
+      "min": 1,
+      "to": "minecraft:iron_nugget"
+    }
+  ],
+  "tables": [
+    "chests/",
+    "archaeology/",
+    "pots/",
+    "gameplay/hero_of_the_village/"
+  ]
+}

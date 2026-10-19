@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard",
+    "hardscrabble:quartz_shard"
+  ],
+  "result": {
+    "id": "minecraft:quartz"
+  }
+}

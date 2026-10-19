@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:acquire_iron",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "to": "hardscrabble:underworld"
+      },
+      "trigger": "minecraft:changed_dimension"
+    }
+  },
+  "display": {
+    "description": {
+      "translate": "advancements.hardscrabble.portal.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "id": "minecraft:obsidian"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.portal.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

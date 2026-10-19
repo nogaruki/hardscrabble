@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#minecraft:is_overworld",
+  "features": "hardscrabble:spring_lava_deep",
+  "step": "fluid_springs"
+}

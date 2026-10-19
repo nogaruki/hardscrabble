@@ -1,0 +1,39 @@
+{
+  "parent": "hardscrabble:build_hoe",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hardscrabble:adamantium_scythe",
+            "hardscrabble:ancient_metal_scythe",
+            "hardscrabble:copper_scythe",
+            "hardscrabble:golden_scythe",
+            "hardscrabble:iron_scythe",
+            "hardscrabble:mithril_scythe",
+            "hardscrabble:silver_scythe"
+          ]
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.build_scythe.description"
+    },
+    "icon": {
+      "id": "hardscrabble:copper_scythe"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.build_scythe.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:ancient_metal_coin"
+  ],
+  "result": {
+    "id": "hardscrabble:ancient_metal_nugget"
+  }
+}

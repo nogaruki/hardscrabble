@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "#": "minecraft:stick",
+    "H": "minecraft:gold_nugget",
+    "S": "minecraft:string"
+  },
+  "pattern": [
+    "  #",
+    " #S",
+    "#SH"
+  ],
+  "result": {
+    "id": "hardscrabble:gold_fishing_rod"
+  }
+}

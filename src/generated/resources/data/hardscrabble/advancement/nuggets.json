@@ -1,0 +1,33 @@
+{
+  "parent": "hardscrabble:build_axe",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "items": [
+          {
+            "items": "#c:nuggets"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.nuggets.description"
+    },
+    "icon": {
+      "id": "minecraft:iron_nugget"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.nuggets.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

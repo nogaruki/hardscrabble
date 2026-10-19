@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:dough",
+    "hardscrabble:chocolate"
+  ],
+  "result": {
+    "count": 4,
+    "id": "minecraft:cookie"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "hardscrabble:remove_item",
+  "condition": {
+    "type": "minecraft:inverted",
+    "term": {
+      "type": "minecraft:entity_properties",
+      "entity": "this",
+      "predicate": {
+        "minecraft:type_specific/player": {
+          "advancements": {
+            "minecraft:end/kill_dragon": true
+          }
+        }
+      }
+    }
+  },
+  "enchantments": "hardscrabble:unobtainable",
+  "items": "hardscrabble:post_dragon"
+}

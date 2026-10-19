@@ -1,0 +1,9 @@
+{
+  "values": [
+    "#minecraft:is_fire",
+    "#minecraft:bypasses_invulnerability",
+    "minecraft:magic",
+    "minecraft:indirect_magic",
+    "minecraft:thorns"
+  ]
+}

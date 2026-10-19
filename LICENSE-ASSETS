@@ -1,0 +1,16 @@
+Assets licence
+
+Applies to the textures under src/main/resources/assets/hardscrabble/textures/, the structure files under
+src/main/resources/data/hardscrabble/structure/ and the art documentation under docs/art/ (including the Blockbench
+model sources). The generated model and sound definitions under src/generated/resources/assets/hardscrabble/ are
+covered too, as far as they are copyrightable.
+
+Copyright (c) the Hardscrabble authors.
+
+These assets are licensed under the Creative Commons Attribution 4.0 International licence (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+
+Attribution: "Hardscrabble authors", with a link to the licence and an indication of any changes made.
+
+These assets are original works (see PROVENANCE.md). They contain no texture, model or sound from MITE
+(Minecraft Is Too Easy) or from Minecraft.

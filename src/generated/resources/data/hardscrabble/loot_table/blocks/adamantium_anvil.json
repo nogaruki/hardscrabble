@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "modifier": {
+            "type": "minecraft:copy_state",
+            "block": "hardscrabble:adamantium_anvil",
+            "properties": [
+              "damage"
+            ]
+          },
+          "name": "hardscrabble:adamantium_anvil"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "hardscrabble:blocks/adamantium_anvil"
+}

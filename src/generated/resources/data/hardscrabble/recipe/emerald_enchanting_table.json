@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "key": {
+    "#": "minecraft:obsidian",
+    "B": "minecraft:book",
+    "E": "minecraft:emerald"
+  },
+  "pattern": [
+    " B ",
+    "E#E",
+    "###"
+  ],
+  "result": {
+    "id": "hardscrabble:emerald_enchanting_table"
+  }
+}

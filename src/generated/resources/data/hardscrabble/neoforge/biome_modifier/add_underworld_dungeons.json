@@ -1,0 +1,6 @@
+{
+  "type": "neoforge:add_features",
+  "biomes": "#hardscrabble:is_underworld",
+  "features": "hardscrabble:underworld_dungeon",
+  "step": "underground_structures"
+}

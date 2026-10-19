@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "ingredient": "minecraft:potato",
+  "result": {
+    "id": "minecraft:baked_potato"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:wheat_seeds",
+    "minecraft:sweet_berries",
+    "minecraft:sugar",
+    "hardscrabble:water_bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:porridge"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:orange",
+    "minecraft:sugar",
+    "minecraft:snowball",
+    "minecraft:bowl"
+  ],
+  "result": {
+    "id": "hardscrabble:sorbet"
+  }
+}

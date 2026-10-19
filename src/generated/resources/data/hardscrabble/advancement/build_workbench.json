@@ -1,0 +1,41 @@
+{
+  "parent": "hardscrabble:mine_wood",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "item": {
+          "items": [
+            "hardscrabble:adamantium_workbench",
+            "hardscrabble:ancient_metal_workbench",
+            "hardscrabble:copper_workbench",
+            "hardscrabble:gold_workbench",
+            "hardscrabble:iron_workbench",
+            "hardscrabble:mithril_workbench",
+            "hardscrabble:obsidian_workbench",
+            "hardscrabble:silver_workbench",
+            "minecraft:crafting_table"
+          ]
+        }
+      },
+      "trigger": "hardscrabble:crafted_item"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.build_workbench.description"
+    },
+    "icon": {
+      "id": "minecraft:crafting_table"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.build_workbench.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

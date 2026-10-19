@@ -1,0 +1,29 @@
+{
+  "parent": "hardscrabble:root",
+  "criteria": {
+    "slept": {
+      "conditions": {
+        "event": "well_rested"
+      },
+      "trigger": "hardscrabble:event"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.well_rested.description"
+    },
+    "icon": {
+      "id": "minecraft:straw_bed"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.well_rested.title"
+    }
+  },
+  "requirements": [
+    [
+      "slept"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

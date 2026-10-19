@@ -1,0 +1,90 @@
+{
+  "parent": "hardscrabble:kill_cow",
+  "criteria": {
+    "c0": {
+      "conditions": {
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:equipment": {
+              "head": {
+                "items": "minecraft:leather_helmet"
+              }
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "c1": {
+      "conditions": {
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:equipment": {
+              "chest": {
+                "items": "minecraft:leather_chestplate"
+              }
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "c2": {
+      "conditions": {
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:equipment": {
+              "legs": {
+                "items": "minecraft:leather_leggings"
+              }
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:location"
+    },
+    "c3": {
+      "conditions": {
+        "player": {
+          "type": "minecraft:entity_properties",
+          "entity": "this",
+          "predicate": {
+            "minecraft:equipment": {
+              "feet": {
+                "items": "minecraft:leather_boots"
+              }
+            }
+          }
+        }
+      },
+      "trigger": "minecraft:location"
+    }
+  },
+  "display": {
+    "announce_to_chat": false,
+    "description": {
+      "translate": "advancements.hardscrabble.wear_leather.description"
+    },
+    "icon": {
+      "id": "minecraft:leather_chestplate"
+    },
+    "title": {
+      "translate": "advancements.hardscrabble.wear_leather.title"
+    }
+  },
+  "requirements": [
+    [
+      "c0",
+      "c1",
+      "c2",
+      "c3"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

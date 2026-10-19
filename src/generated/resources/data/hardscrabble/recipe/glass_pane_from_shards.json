@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "hardscrabble:glass_shard",
+    "hardscrabble:glass_shard",
+    "hardscrabble:glass_shard",
+    "hardscrabble:glass_shard",
+    "hardscrabble:glass_shard",
+    "hardscrabble:glass_shard"
+  ],
+  "result": {
+    "id": "minecraft:glass_pane"
+  }
+}

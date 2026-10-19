@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "cookingtime": 600,
+  "ingredient": "minecraft:potato",
+  "result": {
+    "id": "minecraft:baked_potato"
+  }
+}

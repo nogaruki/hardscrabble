@@ -1,0 +1,17 @@
+{
+  "values": [
+    "#minecraft:dirt",
+    "#minecraft:sand",
+    "#minecraft:leaves",
+    "#c:glass_blocks",
+    "#c:glass_panes",
+    "minecraft:gravel",
+    "minecraft:clay",
+    "minecraft:farmland",
+    "minecraft:dirt_path",
+    "minecraft:soul_sand",
+    "minecraft:soul_soil",
+    "minecraft:snow",
+    "minecraft:snow_block"
+  ]
+}

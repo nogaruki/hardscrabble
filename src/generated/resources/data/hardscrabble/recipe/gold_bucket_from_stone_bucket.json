@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    "hardscrabble:gold_stone_bucket"
+  ],
+  "result": {
+    "id": "hardscrabble:gold_bucket"
+  }
+}

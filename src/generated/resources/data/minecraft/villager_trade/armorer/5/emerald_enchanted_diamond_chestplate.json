@@ -1,0 +1,15 @@
+{
+  "gives": {
+    "components": {
+      "hardscrabble:quality": "poor"
+    },
+    "id": "hardscrabble:silver_chestplate"
+  },
+  "max_uses": 3,
+  "reputation_discount": 0.2,
+  "wants": {
+    "count": 16,
+    "id": "minecraft:emerald"
+  },
+  "xp": 30
+}

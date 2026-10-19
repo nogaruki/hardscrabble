@@ -1,0 +1,300 @@
+{
+  "values": {
+    "#minecraft:dirt": {
+      "hardness": 0.5,
+      "level": 0
+    },
+    "#minecraft:logs": {
+      "hardness": 1.2,
+      "level": 1
+    },
+    "#minecraft:planks": {
+      "hardness": 0.8,
+      "level": 0
+    },
+    "#minecraft:sand": {
+      "hardness": 0.4,
+      "level": 0
+    },
+    "hardscrabble:adamantium_block": {
+      "hardness": 5.0,
+      "level": 6
+    },
+    "hardscrabble:adamantium_ore": {
+      "hardness": 4.0,
+      "level": 4
+    },
+    "hardscrabble:adamantium_strongbox": {
+      "hardness": 5.0,
+      "level": 6
+    },
+    "hardscrabble:ancient_metal_block": {
+      "hardness": 5.0,
+      "level": 4
+    },
+    "hardscrabble:ancient_metal_strongbox": {
+      "hardness": 5.0,
+      "level": 4
+    },
+    "hardscrabble:copper_strongbox": {
+      "hardness": 5.0,
+      "level": 3
+    },
+    "hardscrabble:deepslate_adamantium_ore": {
+      "hardness": 5.0,
+      "level": 4
+    },
+    "hardscrabble:deepslate_mithril_ore": {
+      "hardness": 4.375,
+      "level": 3
+    },
+    "hardscrabble:deepslate_silver_ore": {
+      "hardness": 3.125,
+      "level": 2
+    },
+    "hardscrabble:gold_strongbox": {
+      "hardness": 5.0,
+      "level": 3
+    },
+    "hardscrabble:iron_strongbox": {
+      "hardness": 5.0,
+      "level": 4
+    },
+    "hardscrabble:mithril_block": {
+      "hardness": 5.0,
+      "level": 5
+    },
+    "hardscrabble:mithril_ore": {
+      "hardness": 3.5,
+      "level": 3
+    },
+    "hardscrabble:mithril_strongbox": {
+      "hardness": 5.0,
+      "level": 5
+    },
+    "hardscrabble:obsidian_furnace": {
+      "hardness": 10.0,
+      "level": 3
+    },
+    "hardscrabble:silver_block": {
+      "hardness": 5.0,
+      "level": 3
+    },
+    "hardscrabble:silver_ore": {
+      "hardness": 2.5,
+      "level": 2
+    },
+    "hardscrabble:silver_strongbox": {
+      "hardness": 5.0,
+      "level": 3
+    },
+    "minecraft:andesite": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:basalt": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:blackstone": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:calcite": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:chiseled_red_sandstone": {
+      "hardness": 1.0,
+      "level": 1
+    },
+    "minecraft:chiseled_sandstone": {
+      "hardness": 1.0,
+      "level": 1
+    },
+    "minecraft:coal_ore": {
+      "hardness": 1.2,
+      "level": 2
+    },
+    "minecraft:cobbled_deepslate": {
+      "hardness": 2.5,
+      "level": 2
+    },
+    "minecraft:cobblestone": {
+      "hardness": 2.0,
+      "level": 2
+    },
+    "minecraft:copper_block": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:copper_ore": {
+      "hardness": 2.5,
+      "level": 2
+    },
+    "minecraft:crying_obsidian": {
+      "hardness": 2.4,
+      "level": 3
+    },
+    "minecraft:cut_red_sandstone": {
+      "hardness": 1.0,
+      "level": 1
+    },
+    "minecraft:cut_sandstone": {
+      "hardness": 1.0,
+      "level": 1
+    },
+    "minecraft:deepslate": {
+      "hardness": 3.0,
+      "level": 2
+    },
+    "minecraft:deepslate_coal_ore": {
+      "hardness": 1.5,
+      "level": 2
+    },
+    "minecraft:deepslate_copper_ore": {
+      "hardness": 3.125,
+      "level": 2
+    },
+    "minecraft:deepslate_diamond_ore": {
+      "hardness": 3.75,
+      "level": 4
+    },
+    "minecraft:deepslate_emerald_ore": {
+      "hardness": 3.75,
+      "level": 3
+    },
+    "minecraft:deepslate_gold_ore": {
+      "hardness": 3.0,
+      "level": 2
+    },
+    "minecraft:deepslate_iron_ore": {
+      "hardness": 3.75,
+      "level": 2
+    },
+    "minecraft:deepslate_lapis_ore": {
+      "hardness": 3.75,
+      "level": 2
+    },
+    "minecraft:deepslate_redstone_ore": {
+      "hardness": 3.75,
+      "level": 2
+    },
+    "minecraft:diamond_ore": {
+      "hardness": 3.0,
+      "level": 4
+    },
+    "minecraft:diorite": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:emerald_ore": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:exposed_copper": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:gold_block": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:gold_ore": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:granite": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:gravel": {
+      "hardness": 0.8,
+      "level": 0
+    },
+    "minecraft:iron_block": {
+      "hardness": 5.0,
+      "level": 4
+    },
+    "minecraft:iron_ore": {
+      "hardness": 3.0,
+      "level": 2
+    },
+    "minecraft:lapis_ore": {
+      "hardness": 3.0,
+      "level": 2
+    },
+    "minecraft:mossy_cobblestone": {
+      "hardness": 2.0,
+      "level": 2
+    },
+    "minecraft:nether_gold_ore": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:nether_quartz_ore": {
+      "hardness": 3.0,
+      "level": 2
+    },
+    "minecraft:netherrack": {
+      "hardness": 1.6,
+      "level": 2
+    },
+    "minecraft:obsidian": {
+      "hardness": 2.4,
+      "level": 3
+    },
+    "minecraft:oxidized_copper": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:red_sandstone": {
+      "hardness": 1.0,
+      "level": 1
+    },
+    "minecraft:redstone_ore": {
+      "hardness": 3.0,
+      "level": 2
+    },
+    "minecraft:sandstone": {
+      "hardness": 1.0,
+      "level": 1
+    },
+    "minecraft:snow": {
+      "hardness": 0.1,
+      "level": 0
+    },
+    "minecraft:snow_block": {
+      "hardness": 0.2,
+      "level": 1
+    },
+    "minecraft:stone": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:tuff": {
+      "hardness": 2.4,
+      "level": 2
+    },
+    "minecraft:waxed_copper_block": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:waxed_exposed_copper": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:waxed_oxidized_copper": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:waxed_weathered_copper": {
+      "hardness": 3.0,
+      "level": 3
+    },
+    "minecraft:weathered_copper": {
+      "hardness": 3.0,
+      "level": 3
+    }
+  }
+}

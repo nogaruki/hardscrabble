@@ -1,0 +1,21 @@
+{
+  "values": [
+    "minecraft:leather_helmet",
+    "minecraft:copper_helmet",
+    "minecraft:iron_helmet",
+    "minecraft:golden_helmet",
+    "minecraft:chainmail_helmet",
+    "hardscrabble:silver_helmet",
+    "hardscrabble:ancient_metal_helmet",
+    "hardscrabble:mithril_helmet",
+    "hardscrabble:adamantium_helmet",
+    "hardscrabble:rusted_iron_helmet",
+    "hardscrabble:copper_chainmail_helmet",
+    "hardscrabble:silver_chainmail_helmet",
+    "hardscrabble:golden_chainmail_helmet",
+    "hardscrabble:ancient_metal_chainmail_helmet",
+    "hardscrabble:mithril_chainmail_helmet",
+    "hardscrabble:adamantium_chainmail_helmet",
+    "hardscrabble:rusted_iron_chainmail_helmet"
+  ]
+}

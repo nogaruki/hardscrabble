@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:block",
+  "pools": [
+    {
+      "condition": {
+        "type": "minecraft:survives_explosion"
+      },
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "modifier": {
+            "type": "minecraft:copy_state",
+            "block": "hardscrabble:silver_anvil",
+            "properties": [
+              "damage"
+            ]
+          },
+          "name": "hardscrabble:silver_anvil"
+        }
+      ],
+      "rolls": 1
+    }
+  ],
+  "random_sequence": "hardscrabble:blocks/silver_anvil"
+}

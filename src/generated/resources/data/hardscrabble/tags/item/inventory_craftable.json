@@ -1,0 +1,45 @@
+{
+  "values": [
+    {
+      "id": "hardscrabble:flint_hatchet",
+      "required": false
+    },
+    {
+      "id": "hardscrabble:clay_furnace",
+      "required": false
+    },
+    {
+      "id": "hardscrabble:flint_knife",
+      "required": false
+    },
+    {
+      "id": "hardscrabble:obsidian_knife",
+      "required": false
+    },
+    "minecraft:clay",
+    "minecraft:stick",
+    "minecraft:crafting_table",
+    "minecraft:flint",
+    "minecraft:obsidian",
+    "minecraft:emerald",
+    "minecraft:diamond",
+    "minecraft:quartz",
+    "minecraft:glass_pane",
+    "hardscrabble:sinew",
+    "hardscrabble:obsidian_workbench",
+    "minecraft:copper_ingot",
+    "minecraft:copper_nugget",
+    "hardscrabble:silver_ingot",
+    "hardscrabble:silver_nugget",
+    "minecraft:gold_ingot",
+    "minecraft:gold_nugget",
+    "minecraft:iron_ingot",
+    "minecraft:iron_nugget",
+    "hardscrabble:ancient_metal_ingot",
+    "hardscrabble:ancient_metal_nugget",
+    "hardscrabble:mithril_ingot",
+    "hardscrabble:mithril_nugget",
+    "hardscrabble:adamantium_ingot",
+    "hardscrabble:adamantium_nugget"
+  ]
+}

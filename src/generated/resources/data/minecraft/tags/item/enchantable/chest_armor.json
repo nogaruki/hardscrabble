@@ -1,0 +1,21 @@
+{
+  "values": [
+    "minecraft:leather_chestplate",
+    "minecraft:copper_chestplate",
+    "minecraft:iron_chestplate",
+    "minecraft:golden_chestplate",
+    "minecraft:chainmail_chestplate",
+    "hardscrabble:silver_chestplate",
+    "hardscrabble:ancient_metal_chestplate",
+    "hardscrabble:mithril_chestplate",
+    "hardscrabble:adamantium_chestplate",
+    "hardscrabble:rusted_iron_chestplate",
+    "hardscrabble:copper_chainmail_chestplate",
+    "hardscrabble:silver_chainmail_chestplate",
+    "hardscrabble:golden_chainmail_chestplate",
+    "hardscrabble:ancient_metal_chainmail_chestplate",
+    "hardscrabble:mithril_chainmail_chestplate",
+    "hardscrabble:adamantium_chainmail_chestplate",
+    "hardscrabble:rusted_iron_chainmail_chestplate"
+  ]
+}

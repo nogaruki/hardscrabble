@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "key": {
+    "F": "minecraft:feather",
+    "N": "hardscrabble:mithril_nugget",
+    "S": "minecraft:stick"
+  },
+  "pattern": [
+    "N",
+    "S",
+    "F"
+  ],
+  "result": {
+    "id": "hardscrabble:mithril_arrow"
+  }
+}

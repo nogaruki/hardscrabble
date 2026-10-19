@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "hardscrabble:rusted_iron"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "hardscrabble:rusted_iron"
+      }
+    ]
+  }
+}

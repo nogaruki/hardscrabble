@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "cookingtime": 200,
+  "ingredient": "hardscrabble:dough",
+  "result": {
+    "id": "minecraft:bread"
+  }
+}
