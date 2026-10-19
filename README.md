@@ -400,7 +400,7 @@ Open **Mods → Hardscrabble → Config** for the in-game editor, or edit the fi
 
 <table>
 <tr>
-<td width="33%"><img src="docs/media/ui/mods_config.png" width="100%" alt="Mods > Hardscrabble: the Config button opens the config editor"><br>Mods → Hardscrabble → Config</td>
+<td width="33%"><img src="docs/media/ui/mods_config.png" width="100%" alt="Mods → Hardscrabble: the Config button opens the config editor"><br>Mods → Hardscrabble → Config</td>
 <td width="33%"><img src="docs/media/ui/config_root.png" width="100%" alt="Config editor home: client settings and synced world rules"><br>Client settings and synced world rules</td>
 <td width="33%"><img src="docs/media/ui/config.png" width="100%" alt="In-game config editor (synced rules section)"><br>Synced rules section</td>
 </tr>

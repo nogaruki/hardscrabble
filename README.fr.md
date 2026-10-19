@@ -410,7 +410,7 @@ de désenchantement retire les enchantements.
 
 <table>
 <tr>
-<td width="33%"><img src="docs/media/ui/mods_config.png" width="100%" alt="Mods > Hardscrabble : le bouton Config ouvre l'éditeur de configuration"><br>Mods → Hardscrabble → Config</td>
+<td width="33%"><img src="docs/media/ui/mods_config.png" width="100%" alt="Mods → Hardscrabble : le bouton Config ouvre l'éditeur de configuration"><br>Mods → Hardscrabble → Config</td>
 <td width="33%"><img src="docs/media/ui/config_root.png" width="100%" alt="Accueil de l'éditeur : réglages client et règles du monde synchronisées"><br>Réglages client et règles du monde synchronisées</td>
 <td width="33%"><img src="docs/media/ui/config.png" width="100%" alt="Éditeur de configuration en jeu (section règles synchronisées)"><br>Section règles synchronisées</td>
 </tr>
