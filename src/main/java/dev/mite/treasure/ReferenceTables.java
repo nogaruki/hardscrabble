@@ -42,7 +42,7 @@ public final class ReferenceTables implements DataProvider {
     public static String armor() {
         Map<String, String> rows = new TreeMap<>();
         for (CombatContent.ArmorEntry a : CombatContent.ARMORS)
-            rows.put(id(a.item().get()), "| %s | %s | %s | %s | %.2f | %d |".formatted(id(a.item().get()), name(a.material()), a.type().getName(),
+            rows.put(id(a.item().get()), String.format(Locale.ROOT, "| %s | %s | %s | %s | %.2f | %d |", id(a.item().get()), name(a.material()), a.type().getName(),
                     a.chain() ? "chainmail" : "plate", a.protection(), a.durability()));
         return "| Item | Material | Piece | Kind | Protection | Durability |\n|---|---|---|---|---|---|\n" + String.join("\n", rows.values()) + "\n";
     }
