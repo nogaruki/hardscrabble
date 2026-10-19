@@ -520,6 +520,12 @@ Reste à faire : tests plus larges, audio original et publication.
 Voir [`DEVELOPMENT.md`](DEVELOPMENT.md) (en anglais) pour les commandes, l'organisation et les conventions, et
 [`PROVENANCE.md`](PROVENANCE.md) pour les règles de salle blanche que chaque contribution doit suivre.
 
+## Kit presse
+
+Vous préparez une vidéo ou un article ? Le kit presse ([français](docs/press/Hardscrabble-press-kit-fr.pdf),
+[anglais](docs/press/Hardscrabble-press-kit-en.pdf)) contient le pitch, des idées de vidéo et les images clés. Toutes
+les captures de [`docs/media`](docs/media) sont libres d'usage dans les vidéos et miniatures.
+
 ## Crédits
 
 - **Le code, les textures, les modèles des monstres, les sons et la documentation** ont été écrits par **Claude**

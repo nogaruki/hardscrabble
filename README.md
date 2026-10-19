@@ -507,6 +507,12 @@ wider playtests, original audio and a release.
 See [`DEVELOPMENT.md`](DEVELOPMENT.md) for commands, layout and conventions, and [`PROVENANCE.md`](PROVENANCE.md) for
 the clean-room rules every contribution must follow.
 
+## Press kit
+
+Making a video or an article? The press kit ([English](docs/press/Hardscrabble-press-kit-en.pdf),
+[French](docs/press/Hardscrabble-press-kit-fr.pdf)) has the pitch, video angles and key images. Every screenshot in
+[`docs/media`](docs/media) is free to use in videos and thumbnails.
+
 ## Credits
 
 - **Code, textures, mob models, sounds and documentation** were written by **Claude** (Anthropic's AI, Claude Opus 5.5
